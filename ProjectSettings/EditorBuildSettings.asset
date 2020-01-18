@@ -9,15 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
   - enabled: 1
-    path: Assets/Sepiroth/Demo/demoSelecter.unity
-    guid: f61f4dd8650b36a4599e58f9043a3a16
-  - enabled: 1
-    path: Assets/Sepiroth/Demo/demo3.unity
-    guid: 4fe07f8569af2744ebf9cf7f6149b608
-  - enabled: 1
-    path: Assets/Sepiroth/Demo/demo2.unity
-    guid: aca928974aa50c640a532c35e1898138
-  - enabled: 1
-    path: Assets/Sepiroth/Demo/demo.unity
-    guid: 52b689124f570cd409400e4487329bc4
+    path: Assets/Scenes/Empty.unity
+    guid: fc840fb22d256bc42ad872fef9f87677
   m_configObjects: {}

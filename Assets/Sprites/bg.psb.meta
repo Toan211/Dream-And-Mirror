@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: eca25f546594a6249b48775ebe00e694
+guid: c03f94badad187e48879002ced247179
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ ScriptedImporter:
       y: 1882
       width: 72
       height: 72
-    spriteID: 4c6380d0f17d36147b3f2c76f4af2020
+    spriteID: fac41f2dbbf95824cbb324da7695ba8b
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -119,7 +119,7 @@ ScriptedImporter:
       y: 1219
       width: 275
       height: 454
-    spriteID: aafafc9d1163e0f419324bf3f3b19595
+    spriteID: dbb4509b87c7dce4ea4917104c9d697a
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -141,7 +141,7 @@ ScriptedImporter:
       y: 891
       width: 161
       height: 320
-    spriteID: a9fea789e1963ed448f3bcfa384fb489
+    spriteID: 3c59b9aeea9b73148867840a8ba582cd
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -163,7 +163,7 @@ ScriptedImporter:
       y: 1882
       width: 30
       height: 29
-    spriteID: f3cc8bb7716d54a4c9459569b85cad90
+    spriteID: b4183e3f7a619284a8cda29956547625
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -185,7 +185,7 @@ ScriptedImporter:
       y: 1681
       width: 221
       height: 191
-    spriteID: 0bc2ca73b4a3adb4ba293870b8b4598b
+    spriteID: 955265e985c567d47a609bfa872e57e7
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -207,7 +207,7 @@ ScriptedImporter:
       y: 1681
       width: 329
       height: 193
-    spriteID: 2333bf916f253734ebb9997ccc5e83cd
+    spriteID: ac1bb90180cb3024aa2f9650e503a193
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -229,7 +229,7 @@ ScriptedImporter:
       y: 891
       width: 407
       height: 320
-    spriteID: 6596652bc632bf848846b84c8b64f693
+    spriteID: 417cf8dcd21a41541a2cfed1f215ee28
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -251,7 +251,7 @@ ScriptedImporter:
       y: 1219
       width: 332
       height: 348
-    spriteID: f3aaad60bda651448921dfe9d38b852c
+    spriteID: 39b00150c79b8a4479da833d6a2939e8
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -273,7 +273,7 @@ ScriptedImporter:
       y: 1219
       width: 369
       height: 275
-    spriteID: 68b76f022074fdc4a836f59620aae43a
+    spriteID: d99a438f28533a6489db0e6d12cb5d21
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -295,7 +295,7 @@ ScriptedImporter:
       y: 891
       width: 303
       height: 297
-    spriteID: 67eed261957e1e24c84bbd3b4fdd603c
+    spriteID: 65855983c2f4a5a418d9dd55298f1595
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -317,7 +317,7 @@ ScriptedImporter:
       y: 1882
       width: 135
       height: 158
-    spriteID: 1e2af09741603b543aa43b3bfc7d3f14
+    spriteID: a646716e3031fc64dbc60c439cc38a6c
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -339,7 +339,7 @@ ScriptedImporter:
       y: 4
       width: 952
       height: 879
-    spriteID: 9e005860051f2124491f271864c44431
+    spriteID: 1ae1f7f913719564ba534a74357f1b31
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -373,84 +373,84 @@ ScriptedImporter:
     spriteName: book
     isGroup: 0
     parentIndex: -1
-    spriteID: 4c6380d0f17d36147b3f2c76f4af2020
+    spriteID: fac41f2dbbf95824cbb324da7695ba8b
     layerID: 16
     mosaicPosition: {x: 147, y: 1882}
   - name: Shelf 02
     spriteName: Shelf 02
     isGroup: 0
     parentIndex: -1
-    spriteID: aafafc9d1163e0f419324bf3f3b19595
+    spriteID: dbb4509b87c7dce4ea4917104c9d697a
     layerID: 15
     mosaicPosition: {x: 4, y: 1219}
   - name: Shelf 01
     spriteName: Shelf 01
     isGroup: 0
     parentIndex: -1
-    spriteID: a9fea789e1963ed448f3bcfa384fb489
+    spriteID: 3c59b9aeea9b73148867840a8ba582cd
     layerID: 14
     mosaicPosition: {x: 730, y: 891}
   - name: clock
     spriteName: clock
     isGroup: 0
     parentIndex: -1
-    spriteID: f3cc8bb7716d54a4c9459569b85cad90
+    spriteID: b4183e3f7a619284a8cda29956547625
     layerID: 13
     mosaicPosition: {x: 227, y: 1882}
   - name: lamp
     spriteName: lamp
     isGroup: 0
     parentIndex: -1
-    spriteID: 0bc2ca73b4a3adb4ba293870b8b4598b
+    spriteID: 955265e985c567d47a609bfa872e57e7
     layerID: 12
     mosaicPosition: {x: 341, y: 1681}
   - name: Table
     spriteName: Table
     isGroup: 0
     parentIndex: -1
-    spriteID: 2333bf916f253734ebb9997ccc5e83cd
+    spriteID: ac1bb90180cb3024aa2f9650e503a193
     layerID: 11
     mosaicPosition: {x: 4, y: 1681}
   - name: Window
     spriteName: Window
     isGroup: 0
     parentIndex: -1
-    spriteID: 6596652bc632bf848846b84c8b64f693
+    spriteID: 417cf8dcd21a41541a2cfed1f215ee28
     layerID: 10
     mosaicPosition: {x: 4, y: 891}
   - name: Door_opened
     spriteName: Door_opened
     isGroup: 0
     parentIndex: -1
-    spriteID: f3aaad60bda651448921dfe9d38b852c
+    spriteID: 39b00150c79b8a4479da833d6a2939e8
     layerID: 9
     mosaicPosition: {x: 287, y: 1219}
   - name: Door_closed
     spriteName: Door_closed
     isGroup: 0
     parentIndex: -1
-    spriteID: 68b76f022074fdc4a836f59620aae43a
+    spriteID: d99a438f28533a6489db0e6d12cb5d21
     layerID: 8
     mosaicPosition: {x: 627, y: 1219}
   - name: Bed
     spriteName: Bed
     isGroup: 0
     parentIndex: -1
-    spriteID: 67eed261957e1e24c84bbd3b4fdd603c
+    spriteID: 65855983c2f4a5a418d9dd55298f1595
     layerID: 7
     mosaicPosition: {x: 419, y: 891}
   - name: Mini Cabinet
     spriteName: Mini Cabinet
     isGroup: 0
     parentIndex: -1
-    spriteID: 1e2af09741603b543aa43b3bfc7d3f14
+    spriteID: a646716e3031fc64dbc60c439cc38a6c
     layerID: 6
     mosaicPosition: {x: 4, y: 1882}
   - name: Layer 1
     spriteName: Layer 1
     isGroup: 0
     parentIndex: -1
-    spriteID: 9e005860051f2124491f271864c44431
+    spriteID: 1ae1f7f913719564ba534a74357f1b31
     layerID: 5
     mosaicPosition: {x: 4, y: 4}
   characterData:
@@ -462,4 +462,7 @@ ScriptedImporter:
   textureAssetName: bg Texture
   prefabAssetName: bg Prefab
   spriteLibAssetName: bg Sprite Lib
-  secondarySpriteTextures: []
+  secondarySpriteTextures:
+  - name: _NormalMap
+    texture: {fileID: 5356395365875287116, guid: 74d2c90f96b67424385b35ebb77881b0,
+      type: 3}
