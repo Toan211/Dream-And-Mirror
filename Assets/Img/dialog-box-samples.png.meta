@@ -1,0 +1,5849 @@
+fileFormatVersion: 2
+guid: 89ebeac9e0e051844afb2914369f5dcb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3365864494067235078
+    second: dialog-box-samples_0
+  - first:
+      213: -6677842674851351931
+    second: dialog-box-samples_1
+  - first:
+      213: 3008115397264123087
+    second: dialog-box-samples_2
+  - first:
+      213: 7930310615634082647
+    second: dialog-box-samples_3
+  - first:
+      213: -4092955473201481780
+    second: dialog-box-samples_4
+  - first:
+      213: 8574384828431661232
+    second: dialog-box-samples_5
+  - first:
+      213: -3652631249348318669
+    second: dialog-box-samples_6
+  - first:
+      213: 3515333075758688260
+    second: dialog-box-samples_7
+  - first:
+      213: 5943632205859275541
+    second: dialog-box-samples_8
+  - first:
+      213: -589097167864877086
+    second: dialog-box-samples_9
+  - first:
+      213: 4833749025929455383
+    second: dialog-box-samples_10
+  - first:
+      213: -5153518633664989857
+    second: dialog-box-samples_11
+  - first:
+      213: -5936229052673105701
+    second: dialog-box-samples_12
+  - first:
+      213: -2173545100617953068
+    second: dialog-box-samples_13
+  - first:
+      213: -7526992879148854213
+    second: dialog-box-samples_14
+  - first:
+      213: -8671988042241241198
+    second: dialog-box-samples_15
+  - first:
+      213: 4366615599073566689
+    second: dialog-box-samples_16
+  - first:
+      213: -3844254799898003399
+    second: dialog-box-samples_17
+  - first:
+      213: 4704696924068412825
+    second: dialog-box-samples_18
+  - first:
+      213: -3884622743764265891
+    second: dialog-box-samples_19
+  - first:
+      213: 7942945549618891196
+    second: dialog-box-samples_20
+  - first:
+      213: -1120048183554217672
+    second: dialog-box-samples_21
+  - first:
+      213: -5849224265534109804
+    second: dialog-box-samples_22
+  - first:
+      213: -1309502063617207560
+    second: dialog-box-samples_23
+  - first:
+      213: -5273954188575658386
+    second: dialog-box-samples_24
+  - first:
+      213: -6782832206385609647
+    second: dialog-box-samples_25
+  - first:
+      213: 2268897120615395397
+    second: dialog-box-samples_26
+  - first:
+      213: -298313282549128361
+    second: dialog-box-samples_27
+  - first:
+      213: 9011835087333486396
+    second: dialog-box-samples_28
+  - first:
+      213: -1535437173704229163
+    second: dialog-box-samples_29
+  - first:
+      213: 1475083786497783282
+    second: dialog-box-samples_30
+  - first:
+      213: 5337049368809691064
+    second: dialog-box-samples_31
+  - first:
+      213: 5795629265996222699
+    second: dialog-box-samples_32
+  - first:
+      213: 2221816861007876932
+    second: dialog-box-samples_33
+  - first:
+      213: 2500138698477246978
+    second: dialog-box-samples_34
+  - first:
+      213: -6506920525739715805
+    second: dialog-box-samples_35
+  - first:
+      213: 1212542537242372397
+    second: dialog-box-samples_36
+  - first:
+      213: 2513645287101116605
+    second: dialog-box-samples_37
+  - first:
+      213: -9206482053987058155
+    second: dialog-box-samples_38
+  - first:
+      213: -5345710874399709432
+    second: dialog-box-samples_39
+  - first:
+      213: -1711053837289899344
+    second: dialog-box-samples_40
+  - first:
+      213: 4889406070222349633
+    second: dialog-box-samples_41
+  - first:
+      213: 5881104817201812957
+    second: dialog-box-samples_42
+  - first:
+      213: -7430120376738678644
+    second: dialog-box-samples_43
+  - first:
+      213: 559104378405362865
+    second: dialog-box-samples_44
+  - first:
+      213: -6923005030176441927
+    second: dialog-box-samples_45
+  - first:
+      213: 639239520926811331
+    second: dialog-box-samples_46
+  - first:
+      213: 8682530423675355117
+    second: dialog-box-samples_47
+  - first:
+      213: -6403244065977008981
+    second: dialog-box-samples_48
+  - first:
+      213: 4935315346684893844
+    second: dialog-box-samples_49
+  - first:
+      213: 4593714760787056064
+    second: dialog-box-samples_50
+  - first:
+      213: 5132459290439629295
+    second: dialog-box-samples_51
+  - first:
+      213: 6243011210856840567
+    second: dialog-box-samples_52
+  - first:
+      213: 3325663141727117508
+    second: dialog-box-samples_53
+  - first:
+      213: -7919278327010313572
+    second: dialog-box-samples_54
+  - first:
+      213: 1449705544490075190
+    second: dialog-box-samples_55
+  - first:
+      213: 7533717591922976619
+    second: dialog-box-samples_56
+  - first:
+      213: -5103483813295308851
+    second: dialog-box-samples_57
+  - first:
+      213: 8007743392168733816
+    second: dialog-box-samples_58
+  - first:
+      213: -5062196019399183347
+    second: dialog-box-samples_59
+  - first:
+      213: 6187666231714117752
+    second: dialog-box-samples_60
+  - first:
+      213: -3670555866648041142
+    second: dialog-box-samples_61
+  - first:
+      213: 6824511530202640329
+    second: dialog-box-samples_62
+  - first:
+      213: 6276865279517185785
+    second: dialog-box-samples_63
+  - first:
+      213: 3659664118135637632
+    second: dialog-box-samples_64
+  - first:
+      213: -14836634752922190
+    second: dialog-box-samples_65
+  - first:
+      213: 939718760721323708
+    second: dialog-box-samples_66
+  - first:
+      213: 1617396203290143102
+    second: dialog-box-samples_67
+  - first:
+      213: 2224917714967817565
+    second: dialog-box-samples_68
+  - first:
+      213: 3271952160856818850
+    second: dialog-box-samples_69
+  - first:
+      213: -8905644597797746367
+    second: dialog-box-samples_70
+  - first:
+      213: 9095192439030416627
+    second: dialog-box-samples_71
+  - first:
+      213: -2869971964152941952
+    second: dialog-box-samples_72
+  - first:
+      213: -685608088753231817
+    second: dialog-box-samples_73
+  - first:
+      213: -5069215781000433900
+    second: dialog-box-samples_74
+  - first:
+      213: 7712102888050905075
+    second: dialog-box-samples_75
+  - first:
+      213: -5643401867065414625
+    second: dialog-box-samples_76
+  - first:
+      213: 985535309418308544
+    second: dialog-box-samples_77
+  - first:
+      213: -7597495045874942354
+    second: dialog-box-samples_78
+  - first:
+      213: 679211161788773196
+    second: dialog-box-samples_79
+  - first:
+      213: 1724267455388764347
+    second: dialog-box-samples_80
+  - first:
+      213: -2445306218304320471
+    second: dialog-box-samples_81
+  - first:
+      213: 2355828727965156681
+    second: dialog-box-samples_82
+  - first:
+      213: -3735780633625893211
+    second: dialog-box-samples_83
+  - first:
+      213: -3249471882511034868
+    second: dialog-box-samples_84
+  - first:
+      213: -3623667804259700919
+    second: dialog-box-samples_85
+  - first:
+      213: -698649814970630959
+    second: dialog-box-samples_86
+  - first:
+      213: 7588607908272825475
+    second: dialog-box-samples_87
+  - first:
+      213: -4969311719841394435
+    second: dialog-box-samples_88
+  - first:
+      213: 6538660236952204579
+    second: dialog-box-samples_89
+  - first:
+      213: 2750376919617520437
+    second: dialog-box-samples_90
+  - first:
+      213: -8983489946737801177
+    second: dialog-box-samples_91
+  - first:
+      213: 5773014857123147923
+    second: dialog-box-samples_92
+  - first:
+      213: -1386672227911613480
+    second: dialog-box-samples_93
+  - first:
+      213: 7516831585550923829
+    second: dialog-box-samples_94
+  - first:
+      213: 2000176020716479058
+    second: dialog-box-samples_95
+  - first:
+      213: -4749427225254452305
+    second: dialog-box-samples_96
+  - first:
+      213: 757276832850973284
+    second: dialog-box-samples_97
+  - first:
+      213: 7313828321407422789
+    second: dialog-box-samples_98
+  - first:
+      213: 3528640477582936989
+    second: dialog-box-samples_99
+  - first:
+      213: 8419897218528299264
+    second: dialog-box-samples_100
+  - first:
+      213: 630248206662212951
+    second: dialog-box-samples_101
+  - first:
+      213: -1036334620619914430
+    second: dialog-box-samples_102
+  - first:
+      213: -9222817366893732303
+    second: dialog-box-samples_103
+  - first:
+      213: 5148134245577925198
+    second: dialog-box-samples_104
+  - first:
+      213: 6169245818084990800
+    second: dialog-box-samples_105
+  - first:
+      213: -8375312769760143404
+    second: dialog-box-samples_106
+  - first:
+      213: 8722930397818797621
+    second: dialog-box-samples_107
+  - first:
+      213: 433632608479868305
+    second: dialog-box-samples_108
+  - first:
+      213: -7303736869757032616
+    second: dialog-box-samples_109
+  - first:
+      213: -6110413102984495891
+    second: dialog-box-samples_110
+  - first:
+      213: -7350871892882157880
+    second: dialog-box-samples_111
+  - first:
+      213: 8447520462486094733
+    second: dialog-box-samples_112
+  - first:
+      213: -2941615425764647116
+    second: dialog-box-samples_113
+  - first:
+      213: 2624569833860108977
+    second: dialog-box-samples_114
+  - first:
+      213: 8459748247634515864
+    second: dialog-box-samples_115
+  - first:
+      213: -737170183777520836
+    second: dialog-box-samples_116
+  - first:
+      213: -1606303912775153690
+    second: dialog-box-samples_117
+  - first:
+      213: -6544459694622160870
+    second: dialog-box-samples_118
+  - first:
+      213: -638619813870129110
+    second: dialog-box-samples_119
+  - first:
+      213: -4802043504741270064
+    second: dialog-box-samples_120
+  - first:
+      213: 1823604789872388460
+    second: dialog-box-samples_121
+  - first:
+      213: -8519275278066692542
+    second: dialog-box-samples_122
+  - first:
+      213: -5268451899563951765
+    second: dialog-box-samples_123
+  - first:
+      213: -8109254959434999668
+    second: dialog-box-samples_124
+  - first:
+      213: 7334842857575024441
+    second: dialog-box-samples_125
+  - first:
+      213: -138081212414152822
+    second: dialog-box-samples_126
+  - first:
+      213: -4166904096738406931
+    second: dialog-box-samples_127
+  - first:
+      213: 3521922660053258512
+    second: dialog-box-samples_128
+  - first:
+      213: -1974383222281488626
+    second: dialog-box-samples_129
+  - first:
+      213: 3317120306464595698
+    second: dialog-box-samples_130
+  - first:
+      213: 1180566866977650610
+    second: dialog-box-samples_131
+  - first:
+      213: 5970545576746425467
+    second: dialog-box-samples_132
+  - first:
+      213: 3777170311461087073
+    second: dialog-box-samples_133
+  - first:
+      213: -5174096022216739177
+    second: dialog-box-samples_134
+  - first:
+      213: -3271166476331328436
+    second: dialog-box-samples_135
+  - first:
+      213: 4136301877047277691
+    second: dialog-box-samples_136
+  - first:
+      213: -5018025720877703276
+    second: dialog-box-samples_137
+  - first:
+      213: 3424381936806652254
+    second: dialog-box-samples_138
+  - first:
+      213: 1397756579203113449
+    second: dialog-box-samples_139
+  - first:
+      213: -2298822433243248885
+    second: dialog-box-samples_140
+  - first:
+      213: 4854221110052269127
+    second: dialog-box-samples_141
+  - first:
+      213: -7987866160082092972
+    second: dialog-box-samples_142
+  - first:
+      213: 157299100752503783
+    second: dialog-box-samples_143
+  - first:
+      213: -2082086198345992506
+    second: dialog-box-samples_144
+  - first:
+      213: 4033238112490576392
+    second: dialog-box-samples_145
+  - first:
+      213: -4134926814160034689
+    second: dialog-box-samples_146
+  - first:
+      213: 233471951024444446
+    second: dialog-box-samples_147
+  - first:
+      213: -3217331048271837574
+    second: dialog-box-samples_148
+  - first:
+      213: -8788560987884053964
+    second: dialog-box-samples_149
+  - first:
+      213: 6758986660406760567
+    second: dialog-box-samples_150
+  - first:
+      213: -2025504550473855193
+    second: dialog-box-samples_151
+  - first:
+      213: 2775116417280010403
+    second: dialog-box-samples_152
+  - first:
+      213: -1514400403827952948
+    second: dialog-box-samples_153
+  - first:
+      213: -660815693739776333
+    second: dialog-box-samples_154
+  - first:
+      213: 3283671220272964170
+    second: dialog-box-samples_155
+  - first:
+      213: -9127141240534133642
+    second: dialog-box-samples_156
+  - first:
+      213: 6267369559286785590
+    second: dialog-box-samples_157
+  - first:
+      213: -6312670280574245631
+    second: dialog-box-samples_158
+  - first:
+      213: 2398048934459450765
+    second: dialog-box-samples_159
+  - first:
+      213: -2383439071983941375
+    second: dialog-box-samples_160
+  - first:
+      213: -7254297236865296917
+    second: dialog-box-samples_161
+  - first:
+      213: -8717294143348340871
+    second: dialog-box-samples_162
+  - first:
+      213: 4587686737665147662
+    second: dialog-box-samples_163
+  - first:
+      213: -1599281806214225676
+    second: dialog-box-samples_164
+  - first:
+      213: 3155473765881270777
+    second: dialog-box-samples_165
+  - first:
+      213: -4453616110783566767
+    second: dialog-box-samples_166
+  - first:
+      213: -3957135912574551535
+    second: dialog-box-samples_167
+  - first:
+      213: 5148048946620856255
+    second: dialog-box-samples_168
+  - first:
+      213: -2219703191464789850
+    second: dialog-box-samples_169
+  - first:
+      213: -2205659553982437635
+    second: dialog-box-samples_170
+  - first:
+      213: -4242933595204015844
+    second: dialog-box-samples_171
+  - first:
+      213: -3716288365367238077
+    second: dialog-box-samples_172
+  - first:
+      213: 562733076503863654
+    second: dialog-box-samples_173
+  - first:
+      213: 3443239571508159254
+    second: dialog-box-samples_174
+  - first:
+      213: -5051056638446376065
+    second: dialog-box-samples_175
+  - first:
+      213: 7748807353464303015
+    second: dialog-box-samples_176
+  - first:
+      213: 8716780115729267670
+    second: dialog-box-samples_177
+  - first:
+      213: -8690014787068530814
+    second: dialog-box-samples_178
+  - first:
+      213: 4248904893443749829
+    second: dialog-box-samples_179
+  - first:
+      213: -6556394810297693855
+    second: dialog-box-samples_180
+  - first:
+      213: 6412065280501431804
+    second: dialog-box-samples_181
+  - first:
+      213: 6983269234435334798
+    second: dialog-box-samples_182
+  - first:
+      213: -509702056774732598
+    second: dialog-box-samples_183
+  - first:
+      213: 98933462027277061
+    second: dialog-box-samples_184
+  - first:
+      213: 4106586096870398527
+    second: dialog-box-samples_185
+  - first:
+      213: 9130329481343116540
+    second: dialog-box-samples_186
+  - first:
+      213: 4510067088761476328
+    second: dialog-box-samples_187
+  - first:
+      213: 479689673778810301
+    second: dialog-box-samples_188
+  - first:
+      213: -4933236938637525740
+    second: dialog-box-samples_189
+  - first:
+      213: 1795105542718179150
+    second: dialog-box-samples_190
+  - first:
+      213: -3068505642763987791
+    second: dialog-box-samples_191
+  - first:
+      213: 9114045746742941869
+    second: dialog-box-samples_192
+  - first:
+      213: -6260445040177941918
+    second: dialog-box-samples_193
+  - first:
+      213: -5649428127698934615
+    second: dialog-box-samples_194
+  - first:
+      213: 423688081149450996
+    second: dialog-box-samples_195
+  - first:
+      213: -6957022338845104308
+    second: dialog-box-samples_196
+  - first:
+      213: 83618814112202139
+    second: dialog-box-samples_197
+  - first:
+      213: 4130673920922187480
+    second: dialog-box-samples_198
+  - first:
+      213: 1221770150188136091
+    second: dialog-box-samples_199
+  - first:
+      213: 790705514332460155
+    second: dialog-box-samples_200
+  - first:
+      213: 6577731658547141746
+    second: dialog-box-samples_201
+  - first:
+      213: 7764000385793865388
+    second: dialog-box-samples_202
+  - first:
+      213: 3795460462402875130
+    second: dialog-box-samples_203
+  - first:
+      213: -368036478676200123
+    second: dialog-box-samples_204
+  - first:
+      213: -6810316046734312035
+    second: dialog-box-samples_205
+  - first:
+      213: 6328185224704011670
+    second: dialog-box-samples_206
+  - first:
+      213: -7325496693980791801
+    second: dialog-box-samples_207
+  - first:
+      213: 1219794112207123860
+    second: dialog-box-samples_208
+  - first:
+      213: 6845385754788431559
+    second: dialog-box-samples_209
+  - first:
+      213: 766057207571218757
+    second: dialog-box-samples_210
+  - first:
+      213: -3508183417136175243
+    second: dialog-box-samples_211
+  - first:
+      213: 7089178540302927773
+    second: dialog-box-samples_212
+  - first:
+      213: 6521640804569425895
+    second: dialog-box-samples_213
+  - first:
+      213: -3235648895550214091
+    second: dialog-box-samples_214
+  - first:
+      213: -3867004291291306319
+    second: dialog-box-samples_215
+  - first:
+      213: -2400284136319919345
+    second: dialog-box-samples_216
+  - first:
+      213: 7633599289387848742
+    second: dialog-box-samples_217
+  - first:
+      213: -1894662262889218640
+    second: dialog-box-samples_218
+  - first:
+      213: -2883485957630000815
+    second: dialog-box-samples_219
+  - first:
+      213: -8081151436420475303
+    second: dialog-box-samples_220
+  - first:
+      213: -8761284674132629753
+    second: dialog-box-samples_221
+  - first:
+      213: -6147702551787155178
+    second: dialog-box-samples_222
+  - first:
+      213: -7888422004185513822
+    second: dialog-box-samples_223
+  - first:
+      213: -4970080051878534999
+    second: dialog-box-samples_224
+  - first:
+      213: 5667518832367648037
+    second: dialog-box-samples_225
+  - first:
+      213: 734899583378634383
+    second: dialog-box-samples_226
+  - first:
+      213: -70348522340460703
+    second: dialog-box-samples_227
+  - first:
+      213: 1963999043254446252
+    second: dialog-box-samples_228
+  - first:
+      213: 940019832501581970
+    second: dialog-box-samples_229
+  - first:
+      213: -9030854253946816049
+    second: dialog-box-samples_230
+  - first:
+      213: 1125888206858791559
+    second: dialog-box-samples_231
+  - first:
+      213: -4303559455897447774
+    second: dialog-box-samples_232
+  - first:
+      213: -5766054005055364996
+    second: dialog-box-samples_233
+  - first:
+      213: 3232286429879284431
+    second: dialog-box-samples_234
+  - first:
+      213: 1165640444471728708
+    second: dialog-box-samples_235
+  - first:
+      213: -7743472106389554502
+    second: dialog-box-samples_236
+  - first:
+      213: 5804297958774069108
+    second: dialog-box-samples_237
+  - first:
+      213: -103414220185719561
+    second: dialog-box-samples_238
+  - first:
+      213: -1749324185662205478
+    second: dialog-box-samples_239
+  - first:
+      213: -1116028045501744570
+    second: dialog-box-samples_240
+  - first:
+      213: -2312614903990959048
+    second: dialog-box-samples_241
+  - first:
+      213: 7854602368026030246
+    second: dialog-box-samples_242
+  - first:
+      213: -3156229834942748224
+    second: dialog-box-samples_243
+  - first:
+      213: 3007035414503356859
+    second: dialog-box-samples_244
+  - first:
+      213: -413502881024379
+    second: dialog-box-samples_245
+  - first:
+      213: 2245747024973694408
+    second: dialog-box-samples_246
+  - first:
+      213: -6585515991373709534
+    second: dialog-box-samples_247
+  - first:
+      213: 1183845560238119167
+    second: dialog-box-samples_248
+  - first:
+      213: 3560712050524177280
+    second: dialog-box-samples_249
+  - first:
+      213: 3042164061861555749
+    second: dialog-box-samples_250
+  - first:
+      213: 4808405234392638588
+    second: dialog-box-samples_251
+  - first:
+      213: -6886431335787082835
+    second: dialog-box-samples_252
+  - first:
+      213: 5358861037621903036
+    second: dialog-box-samples_253
+  - first:
+      213: 7086465228823804876
+    second: dialog-box-samples_254
+  - first:
+      213: 2267972468449779422
+    second: dialog-box-samples_255
+  - first:
+      213: -2837225318404920918
+    second: dialog-box-samples_256
+  - first:
+      213: 1254772014471080945
+    second: dialog-box-samples_257
+  - first:
+      213: 4779201880305456547
+    second: dialog-box-samples_258
+  - first:
+      213: -2439795350046363511
+    second: dialog-box-samples_259
+  - first:
+      213: 4874504920971720932
+    second: dialog-box-samples_260
+  - first:
+      213: 7493312908669310969
+    second: dialog-box-samples_261
+  - first:
+      213: -3040924786684149304
+    second: dialog-box-samples_262
+  - first:
+      213: 8367396462900653079
+    second: dialog-box-samples_263
+  - first:
+      213: 8019565140378667847
+    second: dialog-box-samples_264
+  - first:
+      213: 4163871333845421021
+    second: dialog-box-samples_265
+  - first:
+      213: -9213953813364200530
+    second: dialog-box-samples_266
+  - first:
+      213: 2130045136301661109
+    second: dialog-box-samples_267
+  - first:
+      213: -3408575275420731046
+    second: dialog-box-samples_268
+  - first:
+      213: -2281820267754657503
+    second: dialog-box-samples_269
+  - first:
+      213: 6263850335297515027
+    second: dialog-box-samples_270
+  - first:
+      213: 3967570574178499898
+    second: dialog-box-samples_271
+  - first:
+      213: 5215768021225550103
+    second: dialog-box-samples_272
+  - first:
+      213: -1906401666878011913
+    second: dialog-box-samples_273
+  - first:
+      213: -6642233141395401649
+    second: dialog-box-samples_274
+  - first:
+      213: -5696551633606651955
+    second: dialog-box-samples_275
+  - first:
+      213: 3655351784112364174
+    second: dialog-box-samples_276
+  - first:
+      213: 6981807931106098195
+    second: dialog-box-samples_277
+  - first:
+      213: 2028532136391888738
+    second: dialog-box-samples_278
+  - first:
+      213: -2449700650221379072
+    second: dialog-box-samples_279
+  - first:
+      213: -2922298148242505474
+    second: dialog-box-samples_280
+  - first:
+      213: 5135342333196348897
+    second: dialog-box-samples_281
+  - first:
+      213: -1209914548589639050
+    second: dialog-box-samples_282
+  - first:
+      213: -828230175905092753
+    second: dialog-box-samples_283
+  - first:
+      213: 5857984021692326957
+    second: dialog-box-samples_284
+  - first:
+      213: -3645305898139281707
+    second: dialog-box-samples_285
+  - first:
+      213: -7145574275286430199
+    second: dialog-box-samples_286
+  - first:
+      213: -2966679442422514531
+    second: dialog-box-samples_287
+  - first:
+      213: -979478281998718221
+    second: dialog-box-samples_288
+  - first:
+      213: 2860793833764872376
+    second: dialog-box-samples_289
+  - first:
+      213: -6038035228565549557
+    second: dialog-box-samples_290
+  - first:
+      213: -8066826934151426211
+    second: dialog-box-samples_291
+  - first:
+      213: 5488097298819091273
+    second: dialog-box-samples_292
+  - first:
+      213: 2512731994495632690
+    second: dialog-box-samples_293
+  - first:
+      213: -1833958705267964701
+    second: dialog-box-samples_294
+  - first:
+      213: 5902352182882737590
+    second: dialog-box-samples_295
+  - first:
+      213: 6692991745750305217
+    second: dialog-box-samples_296
+  - first:
+      213: 7734268474044041187
+    second: dialog-box-samples_297
+  - first:
+      213: -6094175791855591053
+    second: dialog-box-samples_298
+  - first:
+      213: 8234791463969095911
+    second: dialog-box-samples_299
+  - first:
+      213: 908898278650341737
+    second: dialog-box-samples_300
+  - first:
+      213: 5753321677665607022
+    second: dialog-box-samples_301
+  - first:
+      213: 126291456378513027
+    second: dialog-box-samples_302
+  - first:
+      213: -4122776465912297740
+    second: dialog-box-samples_303
+  - first:
+      213: 4564670764901109625
+    second: dialog-box-samples_304
+  - first:
+      213: 6691392966047950154
+    second: dialog-box-samples_305
+  - first:
+      213: -6009640965947374018
+    second: dialog-box-samples_306
+  - first:
+      213: -7900583416269023976
+    second: dialog-box-samples_307
+  - first:
+      213: -299909085941960804
+    second: dialog-box-samples_308
+  - first:
+      213: -3411482023420400664
+    second: dialog-box-samples_309
+  - first:
+      213: 8717975531968474988
+    second: dialog-box-samples_310
+  - first:
+      213: -3670751365453063334
+    second: dialog-box-samples_311
+  - first:
+      213: 325924687499673443
+    second: dialog-box-samples_312
+  - first:
+      213: 6778389601305060833
+    second: dialog-box-samples_313
+  - first:
+      213: 8113461024374540214
+    second: dialog-box-samples_314
+  - first:
+      213: -660854883697798836
+    second: dialog-box-samples_315
+  - first:
+      213: 3730246050899618997
+    second: dialog-box-samples_316
+  - first:
+      213: 3787841766931945726
+    second: dialog-box-samples_317
+  - first:
+      213: -3295898543736088048
+    second: dialog-box-samples_318
+  - first:
+      213: -514562044886232860
+    second: dialog-box-samples_319
+  - first:
+      213: -8388661190367422466
+    second: dialog-box-samples_320
+  - first:
+      213: -1488785417075389374
+    second: dialog-box-samples_321
+  - first:
+      213: 5757838682489308680
+    second: dialog-box-samples_322
+  - first:
+      213: 2951078162968995749
+    second: dialog-box-samples_323
+  - first:
+      213: 4191366245323891476
+    second: dialog-box-samples_324
+  - first:
+      213: 7239385229514002115
+    second: dialog-box-samples_325
+  - first:
+      213: -5052819332899261657
+    second: dialog-box-samples_326
+  - first:
+      213: -948965832499482428
+    second: dialog-box-samples_327
+  - first:
+      213: 7970293015781673280
+    second: dialog-box-samples_328
+  - first:
+      213: 4733010138322987450
+    second: dialog-box-samples_329
+  - first:
+      213: 3841779946753812350
+    second: dialog-box-samples_330
+  - first:
+      213: -2038954823898623437
+    second: dialog-box-samples_331
+  - first:
+      213: -6189460196477757206
+    second: dialog-box-samples_332
+  - first:
+      213: 6430104923560420953
+    second: dialog-box-samples_333
+  - first:
+      213: -163600346551371081
+    second: dialog-box-samples_334
+  - first:
+      213: 6166591988392765418
+    second: dialog-box-samples_335
+  - first:
+      213: 9218528892515077239
+    second: dialog-box-samples_336
+  - first:
+      213: 7795817038995957340
+    second: dialog-box-samples_337
+  - first:
+      213: 6517350463248551754
+    second: dialog-box-samples_338
+  - first:
+      213: 3058996949082564903
+    second: dialog-box-samples_339
+  - first:
+      213: 3208249490817443296
+    second: dialog-box-samples_340
+  - first:
+      213: -605808851438973629
+    second: dialog-box-samples_341
+  - first:
+      213: 3379550032502180007
+    second: dialog-box-samples_342
+  - first:
+      213: -1456961159454877758
+    second: dialog-box-samples_343
+  - first:
+      213: 1659797662424113025
+    second: dialog-box-samples_344
+  - first:
+      213: -6223561066273105785
+    second: dialog-box-samples_345
+  - first:
+      213: 8017594118353288573
+    second: dialog-box-samples_346
+  - first:
+      213: -4086518922584172960
+    second: dialog-box-samples_347
+  - first:
+      213: 6253165339716172126
+    second: dialog-box-samples_348
+  - first:
+      213: -8660581972006368624
+    second: dialog-box-samples_349
+  - first:
+      213: -1938352710986348962
+    second: dialog-box-samples_350
+  - first:
+      213: 7008513888081932374
+    second: dialog-box-samples_351
+  - first:
+      213: 575794788951560997
+    second: dialog-box-samples_352
+  - first:
+      213: -8591572288964375078
+    second: dialog-box-samples_353
+  - first:
+      213: -4256514330370732962
+    second: dialog-box-samples_354
+  - first:
+      213: 8864161436645162267
+    second: dialog-box-samples_355
+  - first:
+      213: -2480604276689454619
+    second: dialog-box-samples_356
+  - first:
+      213: -3820293601065708787
+    second: dialog-box-samples_357
+  - first:
+      213: -3686685537563722708
+    second: dialog-box-samples_358
+  - first:
+      213: -6739361477087826433
+    second: dialog-box-samples_359
+  - first:
+      213: -5951170311732463291
+    second: dialog-box-samples_360
+  - first:
+      213: -3054613079198743959
+    second: dialog-box-samples_361
+  - first:
+      213: 141309155039412854
+    second: dialog-box-samples_362
+  - first:
+      213: 4049430328234321184
+    second: dialog-box-samples_363
+  - first:
+      213: -2166894957672009535
+    second: dialog-box-samples_364
+  - first:
+      213: -1922405587108363825
+    second: dialog-box-samples_365
+  - first:
+      213: -864299128833179863
+    second: dialog-box-samples_366
+  - first:
+      213: 9048416417555411295
+    second: dialog-box-samples_367
+  - first:
+      213: -4715587023110481302
+    second: dialog-box-samples_368
+  - first:
+      213: -3633527144905832255
+    second: dialog-box-samples_369
+  - first:
+      213: 6465050228546013994
+    second: dialog-box-samples_370
+  - first:
+      213: 8498721662984818437
+    second: dialog-box-samples_371
+  - first:
+      213: -3169424400253213725
+    second: dialog-box-samples_372
+  - first:
+      213: 7249005805333852688
+    second: dialog-box-samples_373
+  - first:
+      213: 5047811613268790981
+    second: dialog-box-samples_374
+  - first:
+      213: -7220925217040635767
+    second: dialog-box-samples_375
+  - first:
+      213: 15519415070665368
+    second: dialog-box-samples_376
+  - first:
+      213: -3065859926338614007
+    second: dialog-box-samples_377
+  - first:
+      213: -8136569064352957887
+    second: dialog-box-samples_378
+  - first:
+      213: -5777049090550023229
+    second: dialog-box-samples_379
+  - first:
+      213: -3897643426140258356
+    second: dialog-box-samples_380
+  - first:
+      213: -4602644803905687824
+    second: dialog-box-samples_381
+  - first:
+      213: 331042353645490030
+    second: dialog-box-samples_382
+  - first:
+      213: 5003839763493486181
+    second: dialog-box-samples_383
+  - first:
+      213: -5204201083282953382
+    second: dialog-box-samples_384
+  - first:
+      213: 1810804725153446854
+    second: dialog-box-samples_385
+  - first:
+      213: -9041506758127318494
+    second: dialog-box-samples_386
+  - first:
+      213: 1070688847650322700
+    second: dialog-box-samples_387
+  - first:
+      213: 3391368035792273311
+    second: dialog-box-samples_388
+  - first:
+      213: -3946532670003119566
+    second: dialog-box-samples_389
+  - first:
+      213: -5796347430616277039
+    second: dialog-box-samples_390
+  - first:
+      213: -7498980159415137858
+    second: dialog-box-samples_391
+  - first:
+      213: 7549100779389469852
+    second: dialog-box-samples_392
+  - first:
+      213: 5997537906908667332
+    second: dialog-box-samples_393
+  - first:
+      213: 446540234545255172
+    second: dialog-box-samples_394
+  - first:
+      213: -2798894920748917815
+    second: dialog-box-samples_395
+  - first:
+      213: -3636889932651608378
+    second: dialog-box-samples_396
+  - first:
+      213: 3250514217166165424
+    second: dialog-box-samples_397
+  - first:
+      213: -6344754345680976160
+    second: dialog-box-samples_398
+  - first:
+      213: 8129628757532674403
+    second: dialog-box-samples_399
+  - first:
+      213: -7528442430210786224
+    second: dialog-box-samples_400
+  - first:
+      213: 8077893297949616213
+    second: dialog-box-samples_401
+  - first:
+      213: -2836598750911273890
+    second: dialog-box-samples_402
+  - first:
+      213: 4228263653407934485
+    second: dialog-box-samples_403
+  - first:
+      213: 1765632789865240594
+    second: dialog-box-samples_404
+  - first:
+      213: 8326244847978777244
+    second: dialog-box-samples_405
+  - first:
+      213: 1278695161611294998
+    second: dialog-box-samples_406
+  - first:
+      213: 2521855430328186964
+    second: dialog-box-samples_407
+  - first:
+      213: -7755461115591433149
+    second: dialog-box-samples_408
+  - first:
+      213: -6411551588108475658
+    second: dialog-box-samples_409
+  - first:
+      213: 7698294449140833841
+    second: dialog-box-samples_410
+  - first:
+      213: -5530906585350149087
+    second: dialog-box-samples_411
+  - first:
+      213: -4404861925159698043
+    second: dialog-box-samples_412
+  - first:
+      213: -9143835194209212897
+    second: dialog-box-samples_413
+  - first:
+      213: -4420014648641645844
+    second: dialog-box-samples_414
+  - first:
+      213: -927156200508812833
+    second: dialog-box-samples_415
+  - first:
+      213: -155000069987445880
+    second: dialog-box-samples_416
+  - first:
+      213: -577095656528904236
+    second: dialog-box-samples_417
+  - first:
+      213: 1706861242460449554
+    second: dialog-box-samples_418
+  - first:
+      213: 1211476051271991969
+    second: dialog-box-samples_419
+  - first:
+      213: -5204244942480585503
+    second: dialog-box-samples_420
+  - first:
+      213: 759357881182280891
+    second: dialog-box-samples_421
+  - first:
+      213: 2780648771945063806
+    second: dialog-box-samples_422
+  - first:
+      213: -8388987464780389167
+    second: dialog-box-samples_423
+  - first:
+      213: 3438429591432877707
+    second: dialog-box-samples_424
+  - first:
+      213: 1804744382506741229
+    second: dialog-box-samples_425
+  - first:
+      213: 1946131690123718678
+    second: dialog-box-samples_426
+  - first:
+      213: 8251456274893474702
+    second: dialog-box-samples_427
+  - first:
+      213: 975418304525095095
+    second: dialog-box-samples_428
+  - first:
+      213: -2842721313298348045
+    second: dialog-box-samples_429
+  - first:
+      213: 7723400650466848596
+    second: dialog-box-samples_430
+  - first:
+      213: -6692433499067759709
+    second: dialog-box-samples_431
+  - first:
+      213: 2085264456732206064
+    second: dialog-box-samples_432
+  - first:
+      213: -1282206351290330133
+    second: dialog-box-samples_433
+  - first:
+      213: 6253937152874032595
+    second: dialog-box-samples_434
+  - first:
+      213: -2805662474105373789
+    second: dialog-box-samples_435
+  - first:
+      213: -5507728460408494281
+    second: dialog-box-samples_436
+  - first:
+      213: -7060440142660932030
+    second: dialog-box-samples_437
+  - first:
+      213: 7052029559635810245
+    second: dialog-box-samples_438
+  - first:
+      213: 8812056110330371883
+    second: dialog-box-samples_439
+  - first:
+      213: -664191365663683255
+    second: dialog-box-samples_440
+  - first:
+      213: 8948627875654336409
+    second: dialog-box-samples_441
+  - first:
+      213: 4831407561860517927
+    second: dialog-box-samples_442
+  - first:
+      213: 2069221170687543980
+    second: dialog-box-samples_443
+  - first:
+      213: 9066860655814179195
+    second: dialog-box-samples_444
+  - first:
+      213: -4161532638370687513
+    second: dialog-box-samples_445
+  - first:
+      213: 8457818863924048429
+    second: dialog-box-samples_446
+  - first:
+      213: 8140582185994490754
+    second: dialog-box-samples_447
+  - first:
+      213: -6933858650889640111
+    second: dialog-box-samples_448
+  - first:
+      213: 8530097229619596760
+    second: dialog-box-samples_449
+  - first:
+      213: -2934939883091747933
+    second: dialog-box-samples_450
+  - first:
+      213: 7953090146659032511
+    second: dialog-box-samples_451
+  - first:
+      213: -4288075684110374843
+    second: dialog-box-samples_452
+  - first:
+      213: -4963377003488640246
+    second: dialog-box-samples_453
+  - first:
+      213: 3453108972263086882
+    second: dialog-box-samples_454
+  - first:
+      213: 4047875802546776858
+    second: dialog-box-samples_455
+  - first:
+      213: 9194946248414907284
+    second: dialog-box-samples_456
+  - first:
+      213: 6730052140639547466
+    second: dialog-box-samples_457
+  - first:
+      213: -8800288245838646472
+    second: dialog-box-samples_458
+  - first:
+      213: -4851145594778652829
+    second: dialog-box-samples_459
+  - first:
+      213: 7163655633379914999
+    second: dialog-box-samples_460
+  - first:
+      213: 2045761581903172769
+    second: dialog-box-samples_461
+  - first:
+      213: -6591555449051619665
+    second: dialog-box-samples_462
+  - first:
+      213: -4099801412387143130
+    second: dialog-box-samples_463
+  - first:
+      213: 8128594457716727824
+    second: dialog-box-samples_464
+  - first:
+      213: -2772019126483423102
+    second: dialog-box-samples_465
+  - first:
+      213: -608540861912344980
+    second: dialog-box-samples_466
+  - first:
+      213: 2493433399674703599
+    second: dialog-box-samples_467
+  - first:
+      213: -8690675297615635927
+    second: dialog-box-samples_468
+  - first:
+      213: -931294400799911867
+    second: dialog-box-samples_469
+  - first:
+      213: 7344259887493932971
+    second: dialog-box-samples_470
+  - first:
+      213: 2365383174820046153
+    second: dialog-box-samples_471
+  - first:
+      213: 2718055719301422877
+    second: dialog-box-samples_472
+  - first:
+      213: 4140589059598176768
+    second: dialog-box-samples_473
+  - first:
+      213: 3413661980151626868
+    second: dialog-box-samples_474
+  - first:
+      213: 3851676860417995818
+    second: dialog-box-samples_475
+  - first:
+      213: 2678570649126341804
+    second: dialog-box-samples_476
+  - first:
+      213: -4423287722470711833
+    second: dialog-box-samples_477
+  - first:
+      213: -3077916093324093882
+    second: dialog-box-samples_478
+  - first:
+      213: 4208496100598326975
+    second: dialog-box-samples_479
+  - first:
+      213: 7733455092594829047
+    second: dialog-box-samples_480
+  - first:
+      213: 761959054620458110
+    second: dialog-box-samples_481
+  - first:
+      213: -1471367368233014178
+    second: dialog-box-samples_482
+  - first:
+      213: -7899363661796805803
+    second: dialog-box-samples_483
+  - first:
+      213: -7815185041749093675
+    second: dialog-box-samples_484
+  - first:
+      213: 5137904906289081442
+    second: dialog-box-samples_485
+  - first:
+      213: -1707218242959043987
+    second: dialog-box-samples_486
+  - first:
+      213: 6186889275552830764
+    second: dialog-box-samples_487
+  - first:
+      213: 2398174491760892218
+    second: dialog-box-samples_488
+  - first:
+      213: 6928486454564505318
+    second: dialog-box-samples_489
+  - first:
+      213: -1067339050119436310
+    second: dialog-box-samples_490
+  - first:
+      213: -8912829586127238994
+    second: dialog-box-samples_491
+  - first:
+      213: -8586037683807631232
+    second: dialog-box-samples_492
+  - first:
+      213: -4911071317460920239
+    second: dialog-box-samples_493
+  - first:
+      213: -3885439302090011801
+    second: dialog-box-samples_494
+  - first:
+      213: -9075984154047741109
+    second: dialog-box-samples_495
+  - first:
+      213: 2609581937886780552
+    second: dialog-box-samples_496
+  - first:
+      213: -98285320463195749
+    second: dialog-box-samples_497
+  - first:
+      213: -1177154507027680784
+    second: dialog-box-samples_498
+  - first:
+      213: 8577060795694697464
+    second: dialog-box-samples_499
+  - first:
+      213: -2019537511276177442
+    second: dialog-box-samples_500
+  - first:
+      213: -8515653701814677324
+    second: dialog-box-samples_501
+  - first:
+      213: 6798971564069673179
+    second: dialog-box-samples_502
+  - first:
+      213: -3191687806292536029
+    second: dialog-box-samples_503
+  - first:
+      213: -7506685244767267278
+    second: dialog-box-samples_504
+  - first:
+      213: 8501611186696166333
+    second: dialog-box-samples_505
+  - first:
+      213: -677058185323365067
+    second: dialog-box-samples_506
+  - first:
+      213: -6702521808894904640
+    second: dialog-box-samples_507
+  - first:
+      213: -8071724348737858421
+    second: dialog-box-samples_508
+  - first:
+      213: 7492952379892372624
+    second: dialog-box-samples_509
+  - first:
+      213: 2288287822935208012
+    second: dialog-box-samples_510
+  - first:
+      213: -6304792024466741258
+    second: dialog-box-samples_511
+  - first:
+      213: -3468897283967800204
+    second: dialog-box-samples_512
+  - first:
+      213: -1284433332074162219
+    second: dialog-box-samples_513
+  - first:
+      213: -4130519517696586387
+    second: dialog-box-samples_514
+  - first:
+      213: -8389659795718405283
+    second: dialog-box-samples_515
+  - first:
+      213: -5944124375906281507
+    second: dialog-box-samples_516
+  - first:
+      213: -7671267295809505033
+    second: dialog-box-samples_517
+  - first:
+      213: -8025072494865057506
+    second: dialog-box-samples_518
+  - first:
+      213: -8648241369266026349
+    second: dialog-box-samples_519
+  - first:
+      213: -5021910378041847495
+    second: dialog-box-samples_520
+  - first:
+      213: -3061776852356286794
+    second: dialog-box-samples_521
+  - first:
+      213: -7411847779866832275
+    second: dialog-box-samples_522
+  - first:
+      213: 8769873611588074771
+    second: dialog-box-samples_523
+  - first:
+      213: -3656380702599681386
+    second: dialog-box-samples_524
+  - first:
+      213: 3132746624717785111
+    second: dialog-box-samples_525
+  - first:
+      213: -6635857679255437034
+    second: dialog-box-samples_526
+  - first:
+      213: 543575040022855402
+    second: dialog-box-samples_527
+  - first:
+      213: -7552828870651117116
+    second: dialog-box-samples_528
+  - first:
+      213: -2769471975704183611
+    second: dialog-box-samples_529
+  - first:
+      213: 3216606192755214450
+    second: dialog-box-samples_530
+  - first:
+      213: 8459041772917603154
+    second: dialog-box-samples_531
+  - first:
+      213: 5986731123657751040
+    second: dialog-box-samples_532
+  - first:
+      213: -5518440725779341535
+    second: dialog-box-samples_533
+  - first:
+      213: -8834090452902330939
+    second: dialog-box-samples_534
+  - first:
+      213: -7218654835650971246
+    second: dialog-box-samples_535
+  - first:
+      213: -3953929897749135425
+    second: dialog-box-samples_536
+  - first:
+      213: 7001178634013057757
+    second: dialog-box-samples_537
+  - first:
+      213: 2141439367909197955
+    second: dialog-box-samples_538
+  - first:
+      213: 5753434441760231191
+    second: dialog-box-samples_539
+  - first:
+      213: -8195786073715291692
+    second: dialog-box-samples_540
+  - first:
+      213: 6579432897821377642
+    second: dialog-box-samples_541
+  - first:
+      213: 2064984399103958827
+    second: dialog-box-samples_542
+  - first:
+      213: -1284766002367271909
+    second: dialog-box-samples_543
+  - first:
+      213: -8906625729932788541
+    second: dialog-box-samples_544
+  - first:
+      213: -6220544752821681412
+    second: dialog-box-samples_545
+  - first:
+      213: 4265406446008422490
+    second: dialog-box-samples_546
+  - first:
+      213: -8965619208891729831
+    second: dialog-box-samples_547
+  - first:
+      213: 7474428846686307677
+    second: dialog-box-samples_548
+  - first:
+      213: 5447899233735837078
+    second: dialog-box-samples_549
+  - first:
+      213: -7112066680113003642
+    second: dialog-box-samples_550
+  - first:
+      213: -1721729641321199059
+    second: dialog-box-samples_551
+  - first:
+      213: 2162345493463031589
+    second: dialog-box-samples_552
+  - first:
+      213: 1404691714095258547
+    second: dialog-box-samples_553
+  - first:
+      213: -2605244306407511255
+    second: dialog-box-samples_554
+  - first:
+      213: 6206178950456317124
+    second: dialog-box-samples_555
+  - first:
+      213: -2310987500223037431
+    second: dialog-box-samples_556
+  - first:
+      213: -1845216505255555183
+    second: dialog-box-samples_557
+  - first:
+      213: 94971603789021849
+    second: dialog-box-samples_558
+  - first:
+      213: -7545507050104739232
+    second: dialog-box-samples_559
+  - first:
+      213: -4105597602653037663
+    second: dialog-box-samples_560
+  - first:
+      213: 1023278820203682077
+    second: dialog-box-samples_561
+  - first:
+      213: 833849123072901037
+    second: dialog-box-samples_562
+  - first:
+      213: -5473148632975419070
+    second: dialog-box-samples_563
+  - first:
+      213: -4701878770244213932
+    second: dialog-box-samples_564
+  - first:
+      213: 6049982357052889714
+    second: dialog-box-samples_565
+  - first:
+      213: -6631939309235104194
+    second: dialog-box-samples_566
+  - first:
+      213: 773177229568912605
+    second: dialog-box-samples_567
+  - first:
+      213: -7451780653402226347
+    second: dialog-box-samples_568
+  - first:
+      213: -8423929345279847306
+    second: dialog-box-samples_569
+  - first:
+      213: 3863295328886611924
+    second: dialog-box-samples_570
+  - first:
+      213: 2474255781688501636
+    second: dialog-box-samples_571
+  - first:
+      213: -9015683020215549121
+    second: dialog-box-samples_572
+  - first:
+      213: 3276249537008728130
+    second: dialog-box-samples_573
+  - first:
+      213: -3509242039751721727
+    second: dialog-box-samples_574
+  - first:
+      213: -2538722985481085445
+    second: dialog-box-samples_575
+  - first:
+      213: -4896658675948830339
+    second: dialog-box-samples_576
+  - first:
+      213: -1474920809997863544
+    second: dialog-box-samples_577
+  - first:
+      213: -8807327376224829127
+    second: dialog-box-samples_578
+  - first:
+      213: 3660720538724126935
+    second: dialog-box-samples_579
+  - first:
+      213: -7833775409063511533
+    second: dialog-box-samples_580
+  - first:
+      213: -863590442456334007
+    second: dialog-box-samples_581
+  - first:
+      213: 2654996311616618961
+    second: dialog-box-samples_582
+  - first:
+      213: 6441955434515733344
+    second: dialog-box-samples_583
+  - first:
+      213: 6032371561301277459
+    second: dialog-box-samples_584
+  - first:
+      213: -5127030220270093384
+    second: dialog-box-samples_585
+  - first:
+      213: -8975286489009083556
+    second: dialog-box-samples_586
+  - first:
+      213: -3386807432987077603
+    second: dialog-box-samples_587
+  - first:
+      213: 5465795281961464229
+    second: dialog-box-samples_588
+  - first:
+      213: -7799398994949982956
+    second: dialog-box-samples_589
+  - first:
+      213: -2211613540448767950
+    second: dialog-box-samples_590
+  - first:
+      213: -4888465078491543560
+    second: dialog-box-samples_591
+  - first:
+      213: -1766633098377739432
+    second: dialog-box-samples_592
+  - first:
+      213: -4662327835770030963
+    second: dialog-box-samples_593
+  - first:
+      213: 7395347571848332825
+    second: dialog-box-samples_594
+  - first:
+      213: -1436703669313653806
+    second: dialog-box-samples_595
+  - first:
+      213: -9036135610351711338
+    second: dialog-box-samples_596
+  - first:
+      213: -5143333963220766898
+    second: dialog-box-samples_597
+  - first:
+      213: -8118837993687413298
+    second: dialog-box-samples_598
+  - first:
+      213: -5635247816145171750
+    second: dialog-box-samples_599
+  - first:
+      213: -4076285882888301895
+    second: dialog-box-samples_600
+  - first:
+      213: -7285014207087929662
+    second: dialog-box-samples_601
+  - first:
+      213: 3307184902708199754
+    second: dialog-box-samples_602
+  - first:
+      213: -6591210635406988285
+    second: dialog-box-samples_603
+  - first:
+      213: -524888784339344981
+    second: dialog-box-samples_604
+  - first:
+      213: 8807041850647969393
+    second: dialog-box-samples_605
+  - first:
+      213: 2998053833075814392
+    second: dialog-box-samples_606
+  - first:
+      213: -8753185132961773482
+    second: dialog-box-samples_607
+  - first:
+      213: -3880040494791958849
+    second: dialog-box-samples_608
+  - first:
+      213: 6356659738196407026
+    second: dialog-box-samples_609
+  - first:
+      213: -5465892466937648376
+    second: dialog-box-samples_610
+  - first:
+      213: 436556762455744318
+    second: dialog-box-samples_611
+  - first:
+      213: 4434566446809794329
+    second: dialog-box-samples_612
+  - first:
+      213: -8724430387577389806
+    second: dialog-box-samples_613
+  - first:
+      213: 2657611298621902227
+    second: dialog-box-samples_614
+  - first:
+      213: -6964459802578441411
+    second: dialog-box-samples_615
+  - first:
+      213: 8123318906954458584
+    second: dialog-box-samples_616
+  - first:
+      213: -8437695491289360611
+    second: dialog-box-samples_617
+  - first:
+      213: -5235516506949421957
+    second: dialog-box-samples_618
+  - first:
+      213: 8259406553459375214
+    second: dialog-box-samples_619
+  - first:
+      213: -3098405981104408777
+    second: dialog-box-samples_620
+  - first:
+      213: 500679887302799019
+    second: dialog-box-samples_621
+  - first:
+      213: 3787958597934948216
+    second: dialog-box-samples_622
+  - first:
+      213: 8615941326387483839
+    second: dialog-box-samples_623
+  - first:
+      213: 5655014600838551620
+    second: dialog-box-samples_624
+  - first:
+      213: -2781772609248543809
+    second: dialog-box-samples_625
+  - first:
+      213: 4227678762450613135
+    second: dialog-box-samples_626
+  - first:
+      213: 3742671192222722041
+    second: dialog-box-samples_627
+  - first:
+      213: -2717624486593811220
+    second: dialog-box-samples_628
+  - first:
+      213: -8451397917553034902
+    second: dialog-box-samples_629
+  - first:
+      213: 3542298085239161899
+    second: dialog-box-samples_630
+  - first:
+      213: -3610098470421979875
+    second: dialog-box-samples_631
+  - first:
+      213: -400645801321480180
+    second: dialog-box-samples_632
+  - first:
+      213: -5671290824585938562
+    second: dialog-box-samples_633
+  - first:
+      213: -7881226079336050560
+    second: dialog-box-samples_634
+  - first:
+      213: -2501403573779138669
+    second: dialog-box-samples_635
+  - first:
+      213: 3608190958854896046
+    second: dialog-box-samples_636
+  - first:
+      213: -4260778861569294973
+    second: dialog-box-samples_637
+  - first:
+      213: -982872240777041770
+    second: dialog-box-samples_638
+  - first:
+      213: 1745034283820274743
+    second: dialog-box-samples_639
+  - first:
+      213: -3705192138838544603
+    second: dialog-box-samples_640
+  - first:
+      213: 6247506442390866237
+    second: dialog-box-samples_641
+  - first:
+      213: 1312110341106065805
+    second: dialog-box-samples_642
+  - first:
+      213: 1475708117414220359
+    second: dialog-box-samples_643
+  - first:
+      213: -3250064408126966260
+    second: dialog-box-samples_644
+  - first:
+      213: -2799155239906742065
+    second: dialog-box-samples_645
+  - first:
+      213: -8423048813132849382
+    second: dialog-box-samples_646
+  - first:
+      213: -6462054524554733201
+    second: dialog-box-samples_647
+  - first:
+      213: 9210172248703802430
+    second: dialog-box-samples_648
+  - first:
+      213: -6797642469195775920
+    second: dialog-box-samples_649
+  - first:
+      213: -7923535900186005843
+    second: dialog-box-samples_650
+  - first:
+      213: -5000663176026387401
+    second: dialog-box-samples_651
+  - first:
+      213: -156339665882046762
+    second: dialog-box-samples_652
+  - first:
+      213: -6449401666301136076
+    second: dialog-box-samples_653
+  - first:
+      213: -6018844392090164209
+    second: dialog-box-samples_654
+  - first:
+      213: -516677424992638989
+    second: dialog-box-samples_655
+  - first:
+      213: 4877033525751690391
+    second: dialog-box-samples_656
+  - first:
+      213: 5930478864905686680
+    second: dialog-box-samples_657
+  - first:
+      213: 5624849357327909013
+    second: dialog-box-samples_658
+  - first:
+      213: -3591358796153633902
+    second: dialog-box-samples_659
+  - first:
+      213: -2087145170303336386
+    second: dialog-box-samples_660
+  - first:
+      213: -2386408342365760517
+    second: dialog-box-samples_661
+  - first:
+      213: 5477189145739042112
+    second: dialog-box-samples_662
+  - first:
+      213: -4729677605857445414
+    second: dialog-box-samples_663
+  - first:
+      213: -8748374025908799162
+    second: dialog-box-samples_664
+  - first:
+      213: 1346672297180752936
+    second: dialog-box-samples_665
+  - first:
+      213: -120304121695805769
+    second: dialog-box-samples_666
+  - first:
+      213: 8504342649152837635
+    second: dialog-box-samples_667
+  - first:
+      213: -384021439397826922
+    second: dialog-box-samples_668
+  - first:
+      213: 3306863205212121508
+    second: dialog-box-samples_669
+  - first:
+      213: 4655396333502659474
+    second: dialog-box-samples_670
+  - first:
+      213: 8138127830941743937
+    second: dialog-box-samples_671
+  - first:
+      213: -3833230494580572924
+    second: dialog-box-samples_672
+  - first:
+      213: 8276093517130362500
+    second: dialog-box-samples_673
+  - first:
+      213: 5998987170050593410
+    second: dialog-box-samples_674
+  - first:
+      213: 6531855789325606429
+    second: dialog-box-samples_675
+  - first:
+      213: 7581873710529671923
+    second: dialog-box-samples_676
+  - first:
+      213: -5951861836783599754
+    second: dialog-box-samples_677
+  - first:
+      213: -8406697080761589513
+    second: dialog-box-samples_678
+  - first:
+      213: 212753577365345341
+    second: dialog-box-samples_679
+  - first:
+      213: -7632006738022096911
+    second: dialog-box-samples_680
+  - first:
+      213: 874432322909412740
+    second: dialog-box-samples_681
+  - first:
+      213: 5756470770665941344
+    second: dialog-box-samples_682
+  - first:
+      213: 4517939886518117227
+    second: dialog-box-samples_683
+  - first:
+      213: 6844645547143392183
+    second: dialog-box-samples_684
+  - first:
+      213: -5267526581189875072
+    second: dialog-box-samples_685
+  - first:
+      213: -2006162074808133182
+    second: dialog-box-samples_686
+  - first:
+      213: 5200980179619923266
+    second: dialog-box-samples_687
+  - first:
+      213: -3026904225795534530
+    second: dialog-box-samples_688
+  - first:
+      213: 8850470180120421457
+    second: dialog-box-samples_689
+  - first:
+      213: -7497210301282688774
+    second: dialog-box-samples_690
+  - first:
+      213: -4475108880194702923
+    second: dialog-box-samples_691
+  - first:
+      213: 817635566976609469
+    second: dialog-box-samples_692
+  - first:
+      213: -271678086388265139
+    second: dialog-box-samples_693
+  - first:
+      213: -5771655037785545778
+    second: dialog-box-samples_694
+  - first:
+      213: -6898191899413540761
+    second: dialog-box-samples_695
+  - first:
+      213: -4153817655474643802
+    second: dialog-box-samples_696
+  - first:
+      213: 6804099899969196932
+    second: dialog-box-samples_697
+  - first:
+      213: 3425288051005388925
+    second: dialog-box-samples_698
+  - first:
+      213: 6336921116584160762
+    second: dialog-box-samples_699
+  - first:
+      213: -3902824078708137378
+    second: dialog-box-samples_700
+  - first:
+      213: -6808182810592927901
+    second: dialog-box-samples_701
+  - first:
+      213: 7212478254516568234
+    second: dialog-box-samples_702
+  - first:
+      213: -4935086794178197034
+    second: dialog-box-samples_703
+  - first:
+      213: -7638815628173538306
+    second: dialog-box-samples_704
+  - first:
+      213: 5769633815705482996
+    second: dialog-box-samples_705
+  - first:
+      213: -2881560398226709288
+    second: dialog-box-samples_706
+  - first:
+      213: 4553366597005700537
+    second: dialog-box-samples_707
+  - first:
+      213: 8465877447051380048
+    second: dialog-box-samples_708
+  - first:
+      213: -6113220951786147756
+    second: dialog-box-samples_709
+  - first:
+      213: -6798959727114369233
+    second: dialog-box-samples_710
+  - first:
+      213: 5646214896896532701
+    second: dialog-box-samples_711
+  - first:
+      213: 5135472972862446029
+    second: dialog-box-samples_712
+  - first:
+      213: -8550919254544272004
+    second: dialog-box-samples_713
+  - first:
+      213: -8380173255245936058
+    second: dialog-box-samples_714
+  - first:
+      213: -4118756042806323583
+    second: dialog-box-samples_715
+  - first:
+      213: -1781153262631617131
+    second: dialog-box-samples_716
+  - first:
+      213: 1533447561027608678
+    second: dialog-box-samples_717
+  - first:
+      213: 6314326158876122105
+    second: dialog-box-samples_718
+  - first:
+      213: 5712625700767142116
+    second: dialog-box-samples_719
+  - first:
+      213: -6047660763833809516
+    second: dialog-box-samples_720
+  - first:
+      213: -5522650459737725443
+    second: dialog-box-samples_721
+  - first:
+      213: 2094683643306727590
+    second: dialog-box-samples_722
+  - first:
+      213: 8824309088514156272
+    second: dialog-box-samples_723
+  - first:
+      213: -367751439665572577
+    second: dialog-box-samples_724
+  - first:
+      213: -3037469302790972499
+    second: dialog-box-samples_725
+  - first:
+      213: 2562116352560029524
+    second: dialog-box-samples_726
+  - first:
+      213: -2862883653103344418
+    second: dialog-box-samples_727
+  - first:
+      213: 9043230943453840881
+    second: dialog-box-samples_728
+  - first:
+      213: -949746765869234615
+    second: dialog-box-samples_729
+  - first:
+      213: -886377213949170474
+    second: dialog-box-samples_730
+  - first:
+      213: -8907677381263724698
+    second: dialog-box-samples_731
+  - first:
+      213: 6685091124119346277
+    second: dialog-box-samples_732
+  - first:
+      213: 5833037993233855380
+    second: dialog-box-samples_733
+  - first:
+      213: 7406921269184002653
+    second: dialog-box-samples_734
+  - first:
+      213: -980821849706580350
+    second: dialog-box-samples_735
+  - first:
+      213: -4958059752546478451
+    second: dialog-box-samples_736
+  - first:
+      213: 4911484347030833931
+    second: dialog-box-samples_737
+  - first:
+      213: -7173834778501518006
+    second: dialog-box-samples_738
+  - first:
+      213: 3810428474567834612
+    second: dialog-box-samples_739
+  - first:
+      213: 8144087455715032270
+    second: dialog-box-samples_740
+  - first:
+      213: -7979250287485001764
+    second: dialog-box-samples_741
+  - first:
+      213: 172510236164540555
+    second: dialog-box-samples_742
+  - first:
+      213: 5251690435564645534
+    second: dialog-box-samples_743
+  - first:
+      213: -1892251904692544226
+    second: dialog-box-samples_744
+  - first:
+      213: -8407381168623036177
+    second: dialog-box-samples_745
+  - first:
+      213: -8853351789834783607
+    second: dialog-box-samples_746
+  - first:
+      213: -7099895824983426469
+    second: dialog-box-samples_747
+  - first:
+      213: 3548720622189774500
+    second: dialog-box-samples_748
+  - first:
+      213: 4441738626616420251
+    second: dialog-box-samples_749
+  - first:
+      213: 4072379962962887563
+    second: dialog-box-samples_750
+  - first:
+      213: -7939940966592260630
+    second: dialog-box-samples_751
+  - first:
+      213: 5293282644685613915
+    second: dialog-box-samples_752
+  - first:
+      213: 5574907843540569149
+    second: dialog-box-samples_753
+  - first:
+      213: -8907224818980946877
+    second: dialog-box-samples_754
+  - first:
+      213: 9090088254464579533
+    second: dialog-box-samples_755
+  - first:
+      213: -6821517580641812863
+    second: dialog-box-samples_756
+  - first:
+      213: -3847769714589690359
+    second: dialog-box-samples_757
+  - first:
+      213: 4001501378367742752
+    second: dialog-box-samples_758
+  - first:
+      213: -214858798308557632
+    second: dialog-box-samples_759
+  - first:
+      213: 8805202981509365960
+    second: dialog-box-samples_760
+  - first:
+      213: 8557246869706029626
+    second: dialog-box-samples_761
+  - first:
+      213: 1687414003173835470
+    second: dialog-box-samples_762
+  - first:
+      213: -4749098855908401881
+    second: dialog-box-samples_763
+  - first:
+      213: 5271731090938769993
+    second: dialog-box-samples_764
+  - first:
+      213: 6602377216777215389
+    second: dialog-box-samples_765
+  - first:
+      213: -1667560011281181113
+    second: dialog-box-samples_766
+  - first:
+      213: 5835876562244330559
+    second: dialog-box-samples_767
+  - first:
+      213: -3477617438252934485
+    second: dialog-box-samples_768
+  - first:
+      213: -2703533008021430884
+    second: dialog-box-samples_769
+  - first:
+      213: -5913742427584725479
+    second: dialog-box-samples_770
+  - first:
+      213: -3095868029510313082
+    second: dialog-box-samples_771
+  - first:
+      213: 4679701909352473405
+    second: dialog-box-samples_772
+  - first:
+      213: -6693066202222896603
+    second: dialog-box-samples_773
+  - first:
+      213: 2224017285867320410
+    second: dialog-box-samples_774
+  - first:
+      213: -8606566812167969290
+    second: dialog-box-samples_775
+  - first:
+      213: -5764550523149231856
+    second: dialog-box-samples_776
+  - first:
+      213: 9210143548380907988
+    second: dialog-box-samples_777
+  - first:
+      213: 2540606197796828432
+    second: dialog-box-samples_778
+  - first:
+      213: -1827308435109365947
+    second: dialog-box-samples_779
+  - first:
+      213: -5034625058029177657
+    second: dialog-box-samples_780
+  - first:
+      213: 6907095385544964044
+    second: dialog-box-samples_781
+  - first:
+      213: 3539114109631812195
+    second: dialog-box-samples_782
+  - first:
+      213: 8964466123772369206
+    second: dialog-box-samples_783
+  - first:
+      213: -6804663117779947110
+    second: dialog-box-samples_784
+  - first:
+      213: 3877712205647238810
+    second: dialog-box-samples_785
+  - first:
+      213: 4077494810625978872
+    second: dialog-box-samples_786
+  - first:
+      213: 1991152831935071491
+    second: dialog-box-samples_787
+  - first:
+      213: -6401208400333587271
+    second: dialog-box-samples_788
+  - first:
+      213: -8056691625327862335
+    second: dialog-box-samples_789
+  - first:
+      213: -5029414078437502647
+    second: dialog-box-samples_790
+  - first:
+      213: -842311835156166026
+    second: dialog-box-samples_791
+  - first:
+      213: 7594542458465489483
+    second: dialog-box-samples_792
+  - first:
+      213: 6229329983093303832
+    second: dialog-box-samples_793
+  - first:
+      213: -2615084846363956608
+    second: dialog-box-samples_794
+  - first:
+      213: -4400057755019894458
+    second: dialog-box-samples_795
+  - first:
+      213: -551449612813015014
+    second: dialog-box-samples_796
+  - first:
+      213: 7335210910554128472
+    second: dialog-box-samples_797
+  - first:
+      213: -1158733629964263684
+    second: dialog-box-samples_798
+  - first:
+      213: 4492226030000123537
+    second: dialog-box-samples_799
+  - first:
+      213: 7361517854506574788
+    second: dialog-box-samples_800
+  - first:
+      213: -2474733534525379270
+    second: dialog-box-samples_801
+  - first:
+      213: 9027273288582766582
+    second: dialog-box-samples_802
+  - first:
+      213: 5391398611680514512
+    second: dialog-box-samples_803
+  - first:
+      213: -806409620071842759
+    second: dialog-box-samples_804
+  - first:
+      213: -3750232888542747587
+    second: dialog-box-samples_805
+  - first:
+      213: -906031289402235596
+    second: dialog-box-samples_806
+  - first:
+      213: -821546548497395801
+    second: dialog-box-samples_807
+  - first:
+      213: 4860115429908212086
+    second: dialog-box-samples_808
+  - first:
+      213: 2030903292394050698
+    second: dialog-box-samples_809
+  - first:
+      213: 1376913133106818653
+    second: dialog-box-samples_810
+  - first:
+      213: -8681928728305525682
+    second: dialog-box-samples_811
+  - first:
+      213: -4110899252445106851
+    second: dialog-box-samples_812
+  - first:
+      213: 792032277111347988
+    second: dialog-box-samples_813
+  - first:
+      213: 3031123398952956386
+    second: dialog-box-samples_814
+  - first:
+      213: 5449892028750397219
+    second: dialog-box-samples_815
+  - first:
+      213: -5752879184405813069
+    second: dialog-box-samples_816
+  - first:
+      213: 3933652057183639937
+    second: dialog-box-samples_817
+  - first:
+      213: 7702482650242860740
+    second: dialog-box-samples_818
+  - first:
+      213: -706507379119797564
+    second: dialog-box-samples_819
+  - first:
+      213: -2112289968593695178
+    second: dialog-box-samples_820
+  - first:
+      213: 4935092573685034658
+    second: dialog-box-samples_821
+  - first:
+      213: 6129250547276166228
+    second: dialog-box-samples_822
+  - first:
+      213: 5657752347432301563
+    second: dialog-box-samples_823
+  - first:
+      213: -4250840078777045636
+    second: dialog-box-samples_824
+  - first:
+      213: -2641688335315907912
+    second: dialog-box-samples_825
+  - first:
+      213: -1890994571437851052
+    second: dialog-box-samples_826
+  - first:
+      213: -8687451786109361337
+    second: dialog-box-samples_827
+  - first:
+      213: -3397495448493813980
+    second: dialog-box-samples_828
+  - first:
+      213: 7088557054223657972
+    second: dialog-box-samples_829
+  - first:
+      213: -2386703748392642179
+    second: dialog-box-samples_830
+  - first:
+      213: 3813498572416397925
+    second: dialog-box-samples_831
+  - first:
+      213: 1329316749367072061
+    second: dialog-box-samples_832
+  - first:
+      213: -2501642994019857419
+    second: dialog-box-samples_833
+  - first:
+      213: 6424974710246124367
+    second: dialog-box-samples_834
+  - first:
+      213: -5116263567648932973
+    second: dialog-box-samples_835
+  - first:
+      213: 6332074882201018121
+    second: dialog-box-samples_836
+  - first:
+      213: -8307153041958593466
+    second: dialog-box-samples_837
+  - first:
+      213: 7468439091863722628
+    second: dialog-box-samples_838
+  - first:
+      213: 8823675635998823625
+    second: dialog-box-samples_839
+  - first:
+      213: 7922627177582454190
+    second: dialog-box-samples_840
+  - first:
+      213: 6061358459885215388
+    second: dialog-box-samples_841
+  - first:
+      213: 7678567824696619315
+    second: dialog-box-samples_842
+  - first:
+      213: 6032489969680218279
+    second: dialog-box-samples_843
+  - first:
+      213: 4680609027018913927
+    second: dialog-box-samples_844
+  - first:
+      213: 2151494518174097337
+    second: dialog-box-samples_845
+  - first:
+      213: -8899935474338459034
+    second: dialog-box-samples_846
+  - first:
+      213: 3983305637741622904
+    second: dialog-box-samples_847
+  - first:
+      213: -6636058561785664778
+    second: dialog-box-samples_848
+  - first:
+      213: -2616242217320741722
+    second: dialog-box-samples_849
+  - first:
+      213: 4163868730837031015
+    second: dialog-box-samples_850
+  - first:
+      213: -419516443395222224
+    second: dialog-box-samples_851
+  - first:
+      213: 2109717854819568545
+    second: dialog-box-samples_852
+  - first:
+      213: 6750959844132808737
+    second: dialog-box-samples_853
+  - first:
+      213: 3060841623935340263
+    second: dialog-box-samples_854
+  - first:
+      213: -4119113378482372422
+    second: dialog-box-samples_855
+  - first:
+      213: -2959867257162351575
+    second: dialog-box-samples_856
+  - first:
+      213: 7030364314365841558
+    second: dialog-box-samples_857
+  - first:
+      213: -5037353143435960003
+    second: dialog-box-samples_858
+  - first:
+      213: -6058616062081664726
+    second: dialog-box-samples_859
+  - first:
+      213: -531017577450693806
+    second: dialog-box-samples_860
+  - first:
+      213: 3877663892043813141
+    second: dialog-box-samples_861
+  - first:
+      213: 5433473286044953750
+    second: dialog-box-samples_862
+  - first:
+      213: 2440474916259947965
+    second: dialog-box-samples_863
+  - first:
+      213: 7924077550026147531
+    second: dialog-box-samples_864
+  - first:
+      213: 1035995707786031781
+    second: dialog-box-samples_865
+  - first:
+      213: 3001930660238540766
+    second: dialog-box-samples_866
+  - first:
+      213: 2771181897911015490
+    second: dialog-box-samples_867
+  - first:
+      213: -6864491832368521846
+    second: dialog-box-samples_868
+  - first:
+      213: -8065088035976533947
+    second: dialog-box-samples_869
+  - first:
+      213: 2422067610602519689
+    second: dialog-box-samples_870
+  - first:
+      213: -5948949728292739802
+    second: dialog-box-samples_871
+  - first:
+      213: 6709941840009999361
+    second: dialog-box-samples_872
+  - first:
+      213: -8471646631301319891
+    second: dialog-box-samples_873
+  - first:
+      213: 1596597981543232154
+    second: dialog-box-samples_874
+  - first:
+      213: -8425238973486570743
+    second: dialog-box-samples_875
+  - first:
+      213: -2710673315760788904
+    second: dialog-box-samples_876
+  - first:
+      213: 567823268137903804
+    second: dialog-box-samples_877
+  - first:
+      213: -1744777775907983299
+    second: dialog-box-samples_878
+  - first:
+      213: -1995874470842008219
+    second: dialog-box-samples_879
+  - first:
+      213: 8375826510588532883
+    second: dialog-box-samples_880
+  - first:
+      213: 3207603984872127065
+    second: dialog-box-samples_881
+  - first:
+      213: -9204415972545801391
+    second: dialog-box-samples_882
+  - first:
+      213: -1743533356363950268
+    second: dialog-box-samples_883
+  - first:
+      213: 971080615883946345
+    second: dialog-box-samples_884
+  - first:
+      213: -2466826745627091418
+    second: dialog-box-samples_885
+  - first:
+      213: -7786611463086442637
+    second: dialog-box-samples_886
+  - first:
+      213: 875786746220620409
+    second: dialog-box-samples_887
+  - first:
+      213: 9209540096661788205
+    second: dialog-box-samples_888
+  - first:
+      213: -6253307669927001728
+    second: dialog-box-samples_889
+  - first:
+      213: -947737815188608757
+    second: dialog-box-samples_890
+  - first:
+      213: 5706515551362863501
+    second: dialog-box-samples_891
+  - first:
+      213: -3492919040211282625
+    second: dialog-box-samples_892
+  - first:
+      213: 9196156379841202714
+    second: dialog-box-samples_893
+  - first:
+      213: 1265516726135932493
+    second: dialog-box-samples_894
+  - first:
+      213: 4874064066043551677
+    second: dialog-box-samples_895
+  - first:
+      213: -4680797771568182700
+    second: dialog-box-samples_896
+  - first:
+      213: -7784719609152440324
+    second: dialog-box-samples_897
+  - first:
+      213: 148352772628585545
+    second: dialog-box-samples_898
+  - first:
+      213: 5686152295755967948
+    second: dialog-box-samples_899
+  - first:
+      213: -3384183495158057560
+    second: dialog-box-samples_900
+  - first:
+      213: -1062221513012726535
+    second: dialog-box-samples_901
+  - first:
+      213: -8238257177803014969
+    second: dialog-box-samples_902
+  - first:
+      213: 8931514444119143865
+    second: dialog-box-samples_903
+  - first:
+      213: -8899661298452851127
+    second: dialog-box-samples_904
+  - first:
+      213: -5868808967444947741
+    second: dialog-box-samples_905
+  - first:
+      213: 796433732245920133
+    second: dialog-box-samples_906
+  - first:
+      213: 1545351556251962164
+    second: dialog-box-samples_907
+  - first:
+      213: -6724098824211807990
+    second: dialog-box-samples_908
+  - first:
+      213: 3339667702109663091
+    second: dialog-box-samples_909
+  - first:
+      213: -8304635893519381251
+    second: dialog-box-samples_910
+  - first:
+      213: -8676543279382129802
+    second: dialog-box-samples_911
+  - first:
+      213: -6500202729963453323
+    second: dialog-box-samples_912
+  - first:
+      213: 7178512788584013195
+    second: dialog-box-samples_913
+  - first:
+      213: -8104091406451840648
+    second: dialog-box-samples_914
+  - first:
+      213: 4095166620507287199
+    second: dialog-box-samples_915
+  - first:
+      213: 6258395266002123504
+    second: dialog-box-samples_916
+  - first:
+      213: -739100705176046854
+    second: dialog-box-samples_917
+  - first:
+      213: 1365997788419360417
+    second: dialog-box-samples_918
+  - first:
+      213: -7605375060721799865
+    second: dialog-box-samples_919
+  - first:
+      213: 1213183249078022819
+    second: dialog-box-samples_920
+  - first:
+      213: -1341505730299186533
+    second: dialog-box-samples_921
+  - first:
+      213: 1914963752169192582
+    second: dialog-box-samples_922
+  - first:
+      213: 3410592057961533471
+    second: dialog-box-samples_923
+  - first:
+      213: -4455250081718006408
+    second: dialog-box-samples_924
+  - first:
+      213: -4404339635981740777
+    second: dialog-box-samples_925
+  - first:
+      213: 7722113229312542662
+    second: dialog-box-samples_926
+  - first:
+      213: 2698323662116593520
+    second: dialog-box-samples_927
+  - first:
+      213: 5363846396109146570
+    second: dialog-box-samples_928
+  - first:
+      213: 2997303683680727050
+    second: dialog-box-samples_929
+  - first:
+      213: -3991149737319444412
+    second: dialog-box-samples_930
+  - first:
+      213: -4419146424439809753
+    second: dialog-box-samples_931
+  - first:
+      213: 2318722935290130648
+    second: dialog-box-samples_932
+  - first:
+      213: -4070724777038145285
+    second: dialog-box-samples_933
+  - first:
+      213: 7146037728576048005
+    second: dialog-box-samples_934
+  - first:
+      213: 1482232275027468079
+    second: dialog-box-samples_935
+  - first:
+      213: -9125092536987633784
+    second: dialog-box-samples_936
+  - first:
+      213: 469282277374610171
+    second: dialog-box-samples_937
+  - first:
+      213: -421303721060483826
+    second: dialog-box-samples_938
+  - first:
+      213: -20100572722827443
+    second: dialog-box-samples_939
+  - first:
+      213: 5935301962109589158
+    second: dialog-box-samples_940
+  - first:
+      213: 2092358589613090810
+    second: dialog-box-samples_941
+  - first:
+      213: 7052695541929368917
+    second: dialog-box-samples_942
+  - first:
+      213: -3818256878154211780
+    second: dialog-box-samples_943
+  - first:
+      213: 1810639342641188165
+    second: dialog-box-samples_944
+  - first:
+      213: -7043197222507092575
+    second: dialog-box-samples_945
+  - first:
+      213: 3844741635427802287
+    second: dialog-box-samples_946
+  - first:
+      213: -1054629695422231446
+    second: dialog-box-samples_947
+  - first:
+      213: -5269157373990154955
+    second: dialog-box-samples_948
+  - first:
+      213: -142353741882400509
+    second: dialog-box-samples_949
+  - first:
+      213: 2953425539101081327
+    second: dialog-box-samples_950
+  - first:
+      213: 7049728628784896647
+    second: dialog-box-samples_951
+  - first:
+      213: -7238099079651486904
+    second: dialog-box-samples_952
+  - first:
+      213: 5957441540841167128
+    second: dialog-box-samples_953
+  - first:
+      213: -9051653428195643829
+    second: dialog-box-samples_954
+  - first:
+      213: 1908065283113666127
+    second: dialog-box-samples_955
+  - first:
+      213: -8841658142900362530
+    second: dialog-box-samples_956
+  - first:
+      213: 928447643306391049
+    second: dialog-box-samples_957
+  - first:
+      213: 2352556729779280310
+    second: dialog-box-samples_958
+  - first:
+      213: 2301217123911312936
+    second: dialog-box-samples_959
+  - first:
+      213: -9133863175746537892
+    second: dialog-box-samples_960
+  - first:
+      213: -832335899973799418
+    second: dialog-box-samples_961
+  - first:
+      213: 6950798233665033292
+    second: dialog-box-samples_962
+  - first:
+      213: 7403796949797535564
+    second: dialog-box-samples_963
+  - first:
+      213: 1149322136266574402
+    second: dialog-box-samples_964
+  - first:
+      213: 2519146974348755109
+    second: dialog-box-samples_965
+  - first:
+      213: -943180842725523439
+    second: dialog-box-samples_966
+  - first:
+      213: -176983865635549918
+    second: dialog-box-samples_967
+  - first:
+      213: 619534035779278408
+    second: dialog-box-samples_968
+  - first:
+      213: -6555570607329665175
+    second: dialog-box-samples_969
+  - first:
+      213: 7294573491480636013
+    second: dialog-box-samples_970
+  - first:
+      213: 6629344776221135372
+    second: dialog-box-samples_971
+  - first:
+      213: -3553159335132692401
+    second: dialog-box-samples_972
+  - first:
+      213: -7478787884783085432
+    second: dialog-box-samples_973
+  - first:
+      213: 7761279026443078161
+    second: dialog-box-samples_974
+  - first:
+      213: -8376312155573934625
+    second: dialog-box-samples_975
+  - first:
+      213: 4460514176555966212
+    second: dialog-box-samples_976
+  - first:
+      213: -1231645403023225208
+    second: dialog-box-samples_977
+  - first:
+      213: -7376098516382047294
+    second: dialog-box-samples_978
+  - first:
+      213: 2617121840009007287
+    second: dialog-box-samples_979
+  - first:
+      213: 5981641238244148338
+    second: dialog-box-samples_980
+  - first:
+      213: -519503143061393693
+    second: dialog-box-samples_981
+  - first:
+      213: -8969805246136104319
+    second: dialog-box-samples_982
+  - first:
+      213: 3102488633951260284
+    second: dialog-box-samples_983
+  - first:
+      213: 1712333821108258336
+    second: dialog-box-samples_984
+  - first:
+      213: 5167378711513027233
+    second: dialog-box-samples_985
+  - first:
+      213: 1632818436025317309
+    second: dialog-box-samples_986
+  - first:
+      213: -7580520950218372827
+    second: dialog-box-samples_987
+  - first:
+      213: -3820720440862299344
+    second: dialog-box-samples_988
+  - first:
+      213: 6126354787227345046
+    second: dialog-box-samples_989
+  - first:
+      213: 1022462381426200062
+    second: dialog-box-samples_990
+  - first:
+      213: 5551555604568012572
+    second: dialog-box-samples_991
+  - first:
+      213: 2561461700614623740
+    second: dialog-box-samples_992
+  - first:
+      213: 5000082436797577921
+    second: dialog-box-samples_993
+  - first:
+      213: -3096002380429300061
+    second: dialog-box-samples_994
+  - first:
+      213: 1780872447231395139
+    second: dialog-box-samples_995
+  - first:
+      213: 5835615050141595054
+    second: dialog-box-samples_996
+  - first:
+      213: -2086625756407615851
+    second: dialog-box-samples_997
+  - first:
+      213: 3354956282096763523
+    second: dialog-box-samples_998
+  - first:
+      213: 7982628720693921826
+    second: dialog-box-samples_999
+  - first:
+      213: -1606937257376420423
+    second: dialog-box-samples_1000
+  - first:
+      213: -7258914612231248759
+    second: dialog-box-samples_1001
+  - first:
+      213: -428401791382828620
+    second: dialog-box-samples_1002
+  - first:
+      213: -7358834640595267043
+    second: dialog-box-samples_1003
+  - first:
+      213: 7921140216744827648
+    second: dialog-box-samples_1004
+  - first:
+      213: -3945526783687677136
+    second: dialog-box-samples_1005
+  - first:
+      213: -8353434129214352356
+    second: dialog-box-samples_1006
+  - first:
+      213: -6587782661210400808
+    second: dialog-box-samples_1007
+  - first:
+      213: 6561885303598175002
+    second: dialog-box-samples_1008
+  - first:
+      213: -4418046010345764459
+    second: dialog-box-samples_1009
+  - first:
+      213: -4634198889246570818
+    second: dialog-box-samples_1010
+  - first:
+      213: 1769005589283008347
+    second: dialog-box-samples_1011
+  - first:
+      213: -1912637379244665473
+    second: dialog-box-samples_1012
+  - first:
+      213: 7839156659613695884
+    second: dialog-box-samples_1013
+  - first:
+      213: -122082997078832051
+    second: dialog-box-samples_1014
+  - first:
+      213: 3461705046267217753
+    second: dialog-box-samples_1015
+  - first:
+      213: 1031762683125877676
+    second: dialog-box-samples_1016
+  - first:
+      213: -3703345758377567858
+    second: dialog-box-samples_1017
+  - first:
+      213: -3801517026885044319
+    second: dialog-box-samples_1018
+  - first:
+      213: -6188892263101545638
+    second: dialog-box-samples_1019
+  - first:
+      213: 7693420006545810708
+    second: dialog-box-samples_1020
+  - first:
+      213: 4020335132351039399
+    second: dialog-box-samples_1021
+  - first:
+      213: -4210956318214931724
+    second: dialog-box-samples_1022
+  - first:
+      213: 2007201565977420345
+    second: dialog-box-samples_1023
+  - first:
+      213: 6447106261445089221
+    second: dialog-box-samples_1024
+  - first:
+      213: 7997089997139366756
+    second: dialog-box-samples_1025
+  - first:
+      213: 3051845899105516686
+    second: dialog-box-samples_1026
+  - first:
+      213: -5089998430634325462
+    second: dialog-box-samples_1027
+  - first:
+      213: 8524599017547234627
+    second: dialog-box-samples_1028
+  - first:
+      213: -7051305033607414190
+    second: dialog-box-samples_1029
+  - first:
+      213: 5744721499215674702
+    second: dialog-box-samples_1030
+  - first:
+      213: 2790650004347406543
+    second: dialog-box-samples_1031
+  - first:
+      213: -2690406695830408375
+    second: dialog-box-samples_1032
+  - first:
+      213: 3786732103204614891
+    second: dialog-box-samples_1033
+  - first:
+      213: -5469164490268874277
+    second: dialog-box-samples_1034
+  - first:
+      213: 3125287716939850232
+    second: dialog-box-samples_1035
+  - first:
+      213: -3521040736950391640
+    second: dialog-box-samples_1036
+  - first:
+      213: 2638315823719619491
+    second: dialog-box-samples_1037
+  - first:
+      213: -1003777323702992042
+    second: dialog-box-samples_1038
+  - first:
+      213: -5475321799174870878
+    second: dialog-box-samples_1039
+  - first:
+      213: -156160564467796408
+    second: dialog-box-samples_1040
+  - first:
+      213: 7225227262023058703
+    second: dialog-box-samples_1041
+  - first:
+      213: 2733873003116018062
+    second: dialog-box-samples_1042
+  - first:
+      213: 7557583298557955359
+    second: dialog-box-samples_1043
+  - first:
+      213: -5159327380040947314
+    second: dialog-box-samples_1044
+  - first:
+      213: -5379792499553311698
+    second: dialog-box-samples_1045
+  - first:
+      213: 7065510317385199051
+    second: dialog-box-samples_1046
+  - first:
+      213: 2170778035620104614
+    second: dialog-box-samples_1047
+  - first:
+      213: -7199284856624168247
+    second: dialog-box-samples_1048
+  - first:
+      213: 3697926273693053756
+    second: dialog-box-samples_1049
+  - first:
+      213: 7780406531506848989
+    second: dialog-box-samples_1050
+  - first:
+      213: -3935794938520992750
+    second: dialog-box-samples_1051
+  - first:
+      213: 3988514695536897336
+    second: dialog-box-samples_1052
+  - first:
+      213: 2392591142187922568
+    second: dialog-box-samples_1053
+  - first:
+      213: -624415335870584085
+    second: dialog-box-samples_1054
+  - first:
+      213: 4498588929941291553
+    second: dialog-box-samples_1055
+  - first:
+      213: 5419160872119705563
+    second: dialog-box-samples_1056
+  - first:
+      213: 1939899767202455081
+    second: dialog-box-samples_1057
+  - first:
+      213: -6600343762828529027
+    second: dialog-box-samples_1058
+  - first:
+      213: 649045717042731318
+    second: dialog-box-samples_1059
+  - first:
+      213: -394473944821487354
+    second: dialog-box-samples_1060
+  - first:
+      213: -1426512453300403714
+    second: dialog-box-samples_1061
+  - first:
+      213: 2360172052431359305
+    second: dialog-box-samples_1062
+  - first:
+      213: 5029208224581757653
+    second: dialog-box-samples_1063
+  - first:
+      213: 6396631097478425366
+    second: dialog-box-samples_1064
+  - first:
+      213: -4534559345339051956
+    second: dialog-box-samples_1065
+  - first:
+      213: -4340561845622973512
+    second: dialog-box-samples_1066
+  - first:
+      213: 1883505803306418912
+    second: dialog-box-samples_1067
+  - first:
+      213: 9039370202995405307
+    second: dialog-box-samples_1068
+  - first:
+      213: 8372733405455409878
+    second: dialog-box-samples_1069
+  - first:
+      213: 7544951752062269795
+    second: dialog-box-samples_1070
+  - first:
+      213: 3510988696521676623
+    second: dialog-box-samples_1071
+  - first:
+      213: -1781090903153890631
+    second: dialog-box-samples_1072
+  - first:
+      213: -506403052046065794
+    second: dialog-box-samples_1073
+  - first:
+      213: 3157093658945706365
+    second: dialog-box-samples_1074
+  - first:
+      213: 5846352720410644622
+    second: dialog-box-samples_1075
+  - first:
+      213: -6870996080188958608
+    second: dialog-box-samples_1076
+  - first:
+      213: 6089387423088053761
+    second: dialog-box-samples_1077
+  - first:
+      213: 8388663595973556779
+    second: dialog-box-samples_1078
+  - first:
+      213: -1350274556586843493
+    second: dialog-box-samples_1079
+  - first:
+      213: 8560743557689856618
+    second: dialog-box-samples_1080
+  - first:
+      213: -298494327718924855
+    second: dialog-box-samples_1081
+  - first:
+      213: 4690214289608557912
+    second: dialog-box-samples_1082
+  - first:
+      213: -7012455922077417798
+    second: dialog-box-samples_1083
+  - first:
+      213: -5538137307097545563
+    second: dialog-box-samples_1084
+  - first:
+      213: -5431332526700384544
+    second: dialog-box-samples_1085
+  - first:
+      213: 4112681248021710063
+    second: dialog-box-samples_1086
+  - first:
+      213: -6599324339587483255
+    second: dialog-box-samples_1087
+  - first:
+      213: -5556168140394328123
+    second: dialog-box-samples_1088
+  - first:
+      213: 5761806863990913366
+    second: dialog-box-samples_1089
+  - first:
+      213: -3067611979891165231
+    second: dialog-box-samples_1090
+  - first:
+      213: 3639426190281676368
+    second: dialog-box-samples_1091
+  - first:
+      213: 8011312889521820246
+    second: dialog-box-samples_1092
+  - first:
+      213: -7865570371668318573
+    second: dialog-box-samples_1093
+  - first:
+      213: -7579414138147193198
+    second: dialog-box-samples_1094
+  - first:
+      213: -5112834544825161260
+    second: dialog-box-samples_1095
+  - first:
+      213: 6561895856228908457
+    second: dialog-box-samples_1096
+  - first:
+      213: -6196226462230571937
+    second: dialog-box-samples_1097
+  - first:
+      213: 1264082325380367091
+    second: dialog-box-samples_1098
+  - first:
+      213: -560782909660669295
+    second: dialog-box-samples_1099
+  - first:
+      213: 7080821514257672477
+    second: dialog-box-samples_1100
+  - first:
+      213: -5664788271729086837
+    second: dialog-box-samples_1101
+  - first:
+      213: -974734851710340576
+    second: dialog-box-samples_1102
+  - first:
+      213: -5901285522957699625
+    second: dialog-box-samples_1103
+  - first:
+      213: 2868981731141377352
+    second: dialog-box-samples_1104
+  - first:
+      213: 2897408065353972393
+    second: dialog-box-samples_1105
+  - first:
+      213: -5050108696005565023
+    second: dialog-box-samples_1106
+  - first:
+      213: 8476835655268095952
+    second: dialog-box-samples_1107
+  - first:
+      213: 3404305051242126580
+    second: dialog-box-samples_1108
+  - first:
+      213: 6630067521651394045
+    second: dialog-box-samples_1109
+  - first:
+      213: -1483669994721398363
+    second: dialog-box-samples_1110
+  - first:
+      213: -9007722778178219196
+    second: dialog-box-samples_1111
+  - first:
+      213: 2284136896367465207
+    second: dialog-box-samples_1112
+  - first:
+      213: -1631316234124052359
+    second: dialog-box-samples_1113
+  - first:
+      213: 8600810488141580620
+    second: dialog-box-samples_1114
+  - first:
+      213: -4534461864740648003
+    second: dialog-box-samples_1115
+  - first:
+      213: 5320403054224832283
+    second: dialog-box-samples_1116
+  - first:
+      213: 1341315994979195046
+    second: dialog-box-samples_1117
+  - first:
+      213: -7531378862352834287
+    second: dialog-box-samples_1118
+  - first:
+      213: 5252968597496659459
+    second: dialog-box-samples_1119
+  - first:
+      213: -3643930517683346100
+    second: dialog-box-samples_1120
+  - first:
+      213: -9105834663144128945
+    second: dialog-box-samples_1121
+  - first:
+      213: 918986903399135408
+    second: dialog-box-samples_1122
+  - first:
+      213: -5173079201987082975
+    second: dialog-box-samples_1123
+  - first:
+      213: 3565957477398930671
+    second: dialog-box-samples_1124
+  - first:
+      213: -314266718905697399
+    second: dialog-box-samples_1125
+  - first:
+      213: -8963121870854724065
+    second: dialog-box-samples_1126
+  - first:
+      213: -478233237975368425
+    second: dialog-box-samples_1127
+  - first:
+      213: 4451762218853132660
+    second: dialog-box-samples_1128
+  - first:
+      213: 621385805047856381
+    second: dialog-box-samples_1129
+  - first:
+      213: -488459250733881352
+    second: dialog-box-samples_1130
+  - first:
+      213: 447018850420810481
+    second: dialog-box-samples_1131
+  - first:
+      213: 5947872236461668625
+    second: dialog-box-samples_1132
+  - first:
+      213: 3825204861985671010
+    second: dialog-box-samples_1133
+  - first:
+      213: 8490379230693074105
+    second: dialog-box-samples_1134
+  - first:
+      213: 4596807362147772887
+    second: dialog-box-samples_1135
+  - first:
+      213: -4429392958880628365
+    second: dialog-box-samples_1136
+  - first:
+      213: -44204327904168360
+    second: dialog-box-samples_1137
+  - first:
+      213: 9185609737651059695
+    second: dialog-box-samples_1138
+  - first:
+      213: -8533578444076641051
+    second: dialog-box-samples_1139
+  - first:
+      213: -6156366006078554547
+    second: dialog-box-samples_1140
+  - first:
+      213: 4910093382617024709
+    second: dialog-box-samples_1141
+  - first:
+      213: 6520516942228217485
+    second: dialog-box-samples_1142
+  - first:
+      213: 3644344218883046530
+    second: dialog-box-samples_1143
+  - first:
+      213: 6278278156859343954
+    second: dialog-box-samples_1144
+  - first:
+      213: 4908613385847992617
+    second: dialog-box-samples_1145
+  - first:
+      213: -321575558189083459
+    second: dialog-box-samples_1146
+  - first:
+      213: 6514278700504162346
+    second: dialog-box-samples_1147
+  - first:
+      213: -4943930077430077085
+    second: dialog-box-samples_1148
+  - first:
+      213: 230111956067024069
+    second: dialog-box-samples_1149
+  - first:
+      213: 4247534251745543272
+    second: dialog-box-samples_1150
+  - first:
+      213: 2111915969783764321
+    second: dialog-box-samples_1151
+  - first:
+      213: -6905581180542619638
+    second: dialog-box-samples_1152
+  - first:
+      213: 3737335391686229194
+    second: dialog-box-samples_1153
+  - first:
+      213: 3506295496579724013
+    second: dialog-box-samples_1154
+  - first:
+      213: -6434300354488780509
+    second: dialog-box-samples_1155
+  - first:
+      213: 360736272351209892
+    second: dialog-box-samples_1156
+  - first:
+      213: 120988257751756711
+    second: dialog-box-samples_1157
+  - first:
+      213: 8012279434433867542
+    second: dialog-box-samples_1158
+  - first:
+      213: 1985615661688315590
+    second: dialog-box-samples_1159
+  - first:
+      213: -8708662544565213379
+    second: dialog-box-samples_1160
+  - first:
+      213: -5886980162164912356
+    second: dialog-box-samples_1161
+  - first:
+      213: 46142043898273162
+    second: dialog-box-samples_1162
+  - first:
+      213: -8395298081552954500
+    second: dialog-box-samples_1163
+  - first:
+      213: 521131022628961964
+    second: dialog-box-samples_1164
+  - first:
+      213: -2253583344785900725
+    second: dialog-box-samples_1165
+  - first:
+      213: 6893856267053984253
+    second: dialog-box-samples_1166
+  - first:
+      213: 218567482284045170
+    second: dialog-box-samples_1167
+  - first:
+      213: 1914510273572405937
+    second: dialog-box-samples_1168
+  - first:
+      213: 5253768787668041600
+    second: dialog-box-samples_1169
+  - first:
+      213: 3428484269803723082
+    second: dialog-box-samples_1170
+  - first:
+      213: -7147864949897500216
+    second: dialog-box-samples_1171
+  - first:
+      213: 4542424682969315001
+    second: dialog-box-samples_1172
+  - first:
+      213: 1397080751508037513
+    second: dialog-box-samples_1173
+  - first:
+      213: -1550076549137096870
+    second: dialog-box-samples_1174
+  - first:
+      213: 5060767279720709089
+    second: dialog-box-samples_1175
+  - first:
+      213: -262956612902312658
+    second: dialog-box-samples_1176
+  - first:
+      213: -7469377242437007441
+    second: dialog-box-samples_1177
+  - first:
+      213: 7420913930134877405
+    second: dialog-box-samples_1178
+  - first:
+      213: -7712458625132253150
+    second: dialog-box-samples_1179
+  - first:
+      213: 4996192785289642538
+    second: dialog-box-samples_1180
+  - first:
+      213: 1415262727386989942
+    second: dialog-box-samples_1181
+  - first:
+      213: 2900781237776984654
+    second: dialog-box-samples_1182
+  - first:
+      213: 1051763453728250507
+    second: dialog-box-samples_1183
+  - first:
+      213: -7154109323299255874
+    second: dialog-box-samples_1184
+  - first:
+      213: -6708054254334638971
+    second: dialog-box-samples_1185
+  - first:
+      213: -8335697294732135115
+    second: dialog-box-samples_1186
+  - first:
+      213: 76108425681593337
+    second: dialog-box-samples_1187
+  - first:
+      213: 5813870519806272500
+    second: dialog-box-samples_1188
+  - first:
+      213: 3032696358156037635
+    second: dialog-box-samples_1189
+  - first:
+      213: 5367844441700591040
+    second: dialog-box-samples_1190
+  - first:
+      213: 6358203146837799317
+    second: dialog-box-samples_1191
+  - first:
+      213: -4746646465380400408
+    second: dialog-box-samples_1192
+  - first:
+      213: 246406608803938395
+    second: dialog-box-samples_1193
+  - first:
+      213: -610257434060634806
+    second: dialog-box-samples_1194
+  - first:
+      213: -1060801837148210766
+    second: dialog-box-samples_1195
+  - first:
+      213: -2189080873596967235
+    second: dialog-box-samples_1196
+  - first:
+      213: -8489465468451619083
+    second: dialog-box-samples_1197
+  - first:
+      213: 6579696761803607872
+    second: dialog-box-samples_1198
+  - first:
+      213: -8923249209047805138
+    second: dialog-box-samples_1199
+  - first:
+      213: -1192616007678824007
+    second: dialog-box-samples_1200
+  - first:
+      213: 6659840762218893280
+    second: dialog-box-samples_1201
+  - first:
+      213: 4099057348449626839
+    second: dialog-box-samples_1202
+  - first:
+      213: -3318299569025438325
+    second: dialog-box-samples_1203
+  - first:
+      213: -1973038032108768845
+    second: dialog-box-samples_1204
+  - first:
+      213: -4145518994366710552
+    second: dialog-box-samples_1205
+  - first:
+      213: 7300555322015207871
+    second: dialog-box-samples_1206
+  - first:
+      213: 5973556229412699144
+    second: dialog-box-samples_1207
+  - first:
+      213: 5041932144568507773
+    second: dialog-box-samples_1208
+  - first:
+      213: 7179701363998029208
+    second: dialog-box-samples_1209
+  - first:
+      213: 1760526831997665124
+    second: dialog-box-samples_1210
+  - first:
+      213: 860268252237293005
+    second: dialog-box-samples_1211
+  - first:
+      213: -6008140035958430093
+    second: dialog-box-samples_1212
+  - first:
+      213: -8372098173692392645
+    second: dialog-box-samples_1213
+  - first:
+      213: -2835516927381621606
+    second: dialog-box-samples_1214
+  - first:
+      213: -6050383078218661796
+    second: dialog-box-samples_1215
+  - first:
+      213: -2826657999885678790
+    second: dialog-box-samples_1216
+  - first:
+      213: 6977891566901002798
+    second: dialog-box-samples_1217
+  - first:
+      213: -3899796761841524031
+    second: dialog-box-samples_1218
+  - first:
+      213: 4826407798581334646
+    second: dialog-box-samples_1219
+  - first:
+      213: -3256623733121855463
+    second: dialog-box-samples_1220
+  - first:
+      213: -1582655137580077996
+    second: dialog-box-samples_1221
+  - first:
+      213: 2668095938629993548
+    second: dialog-box-samples_1222
+  - first:
+      213: -8445131986590016243
+    second: dialog-box-samples_1223
+  - first:
+      213: -6961948834380144424
+    second: dialog-box-samples_1224
+  - first:
+      213: 6428187540267876011
+    second: dialog-box-samples_1225
+  - first:
+      213: 4938022671484696300
+    second: dialog-box-samples_1226
+  - first:
+      213: -6180506385195566921
+    second: dialog-box-samples_1227
+  - first:
+      213: 3319177291752153081
+    second: dialog-box-samples_1228
+  - first:
+      213: 7954124201476796976
+    second: dialog-box-samples_1229
+  - first:
+      213: -3663778544623279860
+    second: dialog-box-samples_1230
+  - first:
+      213: -7170693202279265902
+    second: dialog-box-samples_1231
+  - first:
+      213: 3333642956526684178
+    second: dialog-box-samples_1232
+  - first:
+      213: 5178058568386428140
+    second: dialog-box-samples_1233
+  - first:
+      213: -3437663286148428285
+    second: dialog-box-samples_1234
+  - first:
+      213: 2213955705665770267
+    second: dialog-box-samples_1235
+  - first:
+      213: 2182993960355361153
+    second: dialog-box-samples_1236
+  - first:
+      213: -7954130693514036522
+    second: dialog-box-samples_1237
+  - first:
+      213: -8168662892810326636
+    second: dialog-box-samples_1238
+  - first:
+      213: 3929265199970466324
+    second: dialog-box-samples_1239
+  - first:
+      213: 5879187445089204379
+    second: dialog-box-samples_1240
+  - first:
+      213: -6493355441498444035
+    second: dialog-box-samples_1241
+  - first:
+      213: -7973657918788445276
+    second: dialog-box-samples_1242
+  - first:
+      213: -3064231933455783836
+    second: dialog-box-samples_1243
+  - first:
+      213: -6356510430780900199
+    second: dialog-box-samples_1244
+  - first:
+      213: -8773119927755417022
+    second: dialog-box-samples_1245
+  - first:
+      213: -3855993545057845462
+    second: dialog-box-samples_1246
+  - first:
+      213: 7030042420797875607
+    second: dialog-box-samples_1247
+  - first:
+      213: 9114685764339984382
+    second: dialog-box-samples_1248
+  - first:
+      213: 9170531920928236422
+    second: dialog-box-samples_1249
+  - first:
+      213: -8771555926015007334
+    second: dialog-box-samples_1250
+  - first:
+      213: 1395911007370258275
+    second: dialog-box-samples_1251
+  - first:
+      213: 6674121459029821559
+    second: dialog-box-samples_1252
+  - first:
+      213: 5193681135568240180
+    second: dialog-box-samples_1253
+  - first:
+      213: -1555315224002233416
+    second: dialog-box-samples_1254
+  - first:
+      213: -2476807193456915951
+    second: dialog-box-samples_1255
+  - first:
+      213: 8846991192848947845
+    second: dialog-box-samples_1256
+  - first:
+      213: -7325971103672173818
+    second: dialog-box-samples_1257
+  - first:
+      213: -799694114263740843
+    second: dialog-box-samples_1258
+  - first:
+      213: -7735076134289853524
+    second: dialog-box-samples_1259
+  - first:
+      213: -7485531940789603645
+    second: dialog-box-samples_1260
+  - first:
+      213: -3644048458478577913
+    second: dialog-box-samples_1261
+  - first:
+      213: -4607327563877220434
+    second: dialog-box-samples_1262
+  - first:
+      213: -1182589903569257537
+    second: dialog-box-samples_1263
+  - first:
+      213: 7959162222750937142
+    second: dialog-box-samples_1264
+  - first:
+      213: -5387511854112608603
+    second: dialog-box-samples_1265
+  - first:
+      213: -1568352814008113751
+    second: dialog-box-samples_1266
+  - first:
+      213: 1350475828202711237
+    second: dialog-box-samples_1267
+  - first:
+      213: 8266412598988550439
+    second: dialog-box-samples_1268
+  - first:
+      213: -8113084851004565559
+    second: dialog-box-samples_1269
+  - first:
+      213: 7769569231177015169
+    second: dialog-box-samples_1270
+  - first:
+      213: -7579034110762714058
+    second: dialog-box-samples_1271
+  - first:
+      213: -5664791720012968723
+    second: dialog-box-samples_1272
+  - first:
+      213: -8282090673064587130
+    second: dialog-box-samples_1273
+  - first:
+      213: -4356852443605615010
+    second: dialog-box-samples_1274
+  - first:
+      213: 4528955789807033374
+    second: dialog-box-samples_1275
+  - first:
+      213: -6693556108501663713
+    second: dialog-box-samples_1276
+  - first:
+      213: 153378329499895876
+    second: dialog-box-samples_1277
+  - first:
+      213: -6513103268017585647
+    second: dialog-box-samples_1278
+  - first:
+      213: -1461911192888818098
+    second: dialog-box-samples_1279
+  - first:
+      213: -8964421223755036373
+    second: dialog-box-samples_1280
+  - first:
+      213: -8985933099544267453
+    second: dialog-box-samples_1281
+  - first:
+      213: -4748693481051083010
+    second: dialog-box-samples_1282
+  - first:
+      213: 3555740920148344977
+    second: dialog-box-samples_1283
+  - first:
+      213: -1473027604637948342
+    second: dialog-box-samples_1284
+  - first:
+      213: -5144507243159098562
+    second: dialog-box-samples_1285
+  - first:
+      213: 331832589884112024
+    second: dialog-box-samples_1286
+  - first:
+      213: -7706863067537047945
+    second: dialog-box-samples_1287
+  - first:
+      213: -651761577709232152
+    second: dialog-box-samples_1288
+  - first:
+      213: -7291596179148495435
+    second: dialog-box-samples_1289
+  - first:
+      213: -5891726136916989423
+    second: dialog-box-samples_1290
+  - first:
+      213: -835887734628693738
+    second: dialog-box-samples_1291
+  - first:
+      213: 4910265325768832962
+    second: dialog-box-samples_1292
+  - first:
+      213: -8899018854506840165
+    second: dialog-box-samples_1293
+  - first:
+      213: 9111000206943634422
+    second: dialog-box-samples_1294
+  - first:
+      213: 8280225468289595405
+    second: dialog-box-samples_1295
+  - first:
+      213: 9989217788584595
+    second: dialog-box-samples_1296
+  - first:
+      213: -7746905784873005748
+    second: dialog-box-samples_1297
+  - first:
+      213: -5144043627095974017
+    second: dialog-box-samples_1298
+  - first:
+      213: 7162227343133662622
+    second: dialog-box-samples_1299
+  - first:
+      213: -2146618832966449602
+    second: dialog-box-samples_1300
+  - first:
+      213: 1949839702636440378
+    second: dialog-box-samples_1301
+  - first:
+      213: 7823188069162169884
+    second: dialog-box-samples_1302
+  - first:
+      213: -5785561394788186192
+    second: dialog-box-samples_1303
+  - first:
+      213: -3081708058418466348
+    second: dialog-box-samples_1304
+  - first:
+      213: 5965537266266536044
+    second: dialog-box-samples_1305
+  - first:
+      213: -2199065010073180125
+    second: dialog-box-samples_1306
+  - first:
+      213: 4281610604133185436
+    second: dialog-box-samples_1307
+  - first:
+      213: -8953552365333021771
+    second: dialog-box-samples_1308
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 325, y: 2793, z: 2533, w: 274}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dialog-box-samples_0
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 4613
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1a1a26ecb6d2a4db6b8be26dd14720
+      internalID: -3365864494067235078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_1
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 4705
+        width: 72
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37180dd776efa674c895af1d211a8d01
+      internalID: -6677842674851351931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_2
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 4739
+        width: 73
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c3c96d1a97e6b41ba7cda17e5091cb
+      internalID: 3008115397264123087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2981
+        width: 1829
+        height: 1746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c339067184998f142adb6030117b31ed
+      internalID: 7930310615634082647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_4
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 4562
+        width: 149
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0daf22d5218a9498765e96d0690a1c
+      internalID: -4092955473201481780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_5
+      rect:
+        serializedVersion: 2
+        x: 3521
+        y: 4675
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2e72298898b1442ad52a8cae5e7f11
+      internalID: 8574384828431661232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_6
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 4184
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f324f00aa7f85344bb9122f6f7f4ebdc
+      internalID: -3652631249348318669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_7
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 2881
+        width: 1960
+        height: 1752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1b269d27df19f49bf41cada02d4b70
+      internalID: 3515333075758688260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_8
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2847
+        width: 147
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddcebbf137eb68448d90e85c3ce7258
+      internalID: 5943632205859275541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_9
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 2959
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa46ba75428fac442b6f87a582054e2c
+      internalID: -589097167864877086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_10
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2924
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d74012df4632164b9ee86a266a0bc49
+      internalID: 4833749025929455383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_11
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 2873
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1b563862cddad49bce569ee65d6ff8
+      internalID: -5153518633664989857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_12
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 485
+        width: 1348
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57840cefcf00cda49b90c9179dd1340c
+      internalID: -5936229052673105701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_13
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 2158
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac602d5611d15764ca01ac7465e49e4b
+      internalID: -2173545100617953068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_14
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 384
+        width: 1782
+        height: 1892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3336ee87e7b6f049937b8d1707ad224
+      internalID: -7526992879148854213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_15
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 476
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffb613b0ec4bbc4a9d50cb48d1273bc
+      internalID: -8671988042241241198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_16
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 326
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50278ca282c7c96409aa06e7efb6554f
+      internalID: 4366615599073566689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_17
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 466
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc2471d4f6b41c42b21a11be88a35f8
+      internalID: -3844254799898003399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_18
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 432
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6068b4244f877e4e89357268ace5f31
+      internalID: 4704696924068412825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_19
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 192
+        width: 88
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1075e113bf6dfa946bc9df35ac7db394
+      internalID: -3884622743764265891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_20
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 288
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a5ac41cb3385148893d08e035a7506
+      internalID: 7942945549618891196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_21
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 192
+        width: 67
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b0feb874d028246bd940beccae2d16
+      internalID: -1120048183554217672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_22
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 192
+        width: 67
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2df8f961024eb449f27c4fbd1ebf9d
+      internalID: -5849224265534109804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_23
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 192
+        width: 80
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07be6e8007e9ab459619229c556ac76
+      internalID: -1309502063617207560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_24
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 192
+        width: 42
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f13eea4c8719e4c8d26a734649fe42
+      internalID: -5273954188575658386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_25
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 192
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb65bef3df03104cac27621f951b67d
+      internalID: -6782832206385609647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_26
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 192
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a94770b29fe554fab5fd42a296a959
+      internalID: 2268897120615395397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_27
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 192
+        width: 13
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a50d2daea3ec043be3c3b97e441f7f
+      internalID: -298313282549128361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_28
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 163
+        width: 67
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e940e62d6a6cc4fa94e9faee24daed
+      internalID: 9011835087333486396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_29
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 192
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61253b19245ab0241b15ae4ebe1d9cc3
+      internalID: -1535437173704229163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_30
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 192
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74abf5698d458654cabb3be0b36f0b2c
+      internalID: 1475083786497783282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_31
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 163
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c284df96ab042124b96b62b9830e391e
+      internalID: 5337049368809691064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_32
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 192
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f616c9464b66ef04dae4dc09835f25fb
+      internalID: 5795629265996222699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_33
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 163
+        width: 67
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c147e2fd6760d488c7ec94175a48ee
+      internalID: 2221816861007876932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_34
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 192
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbd3d409ebf67042896a06b3cae617b
+      internalID: 2500138698477246978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_35
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 192
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053ca8ccbd050fc44899a18440f7bf55
+      internalID: -6506920525739715805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog-box-samples_36
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 192
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb6bffc2b74821419ce3b43fd05fe95
+      internalID: 1212542537242372397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -372, y: -2227}
+      - {x: -386, y: -2244}
+      - {x: -386, y: -2294}
+      - {x: -375, y: -2306}
+      - {x: -365, y: -2314}
+      - {x: -372, y: -2310}
+      - {x: -385, y: -2309}
+      - {x: -386, y: -2312}
+      - {x: -386, y: -2338}
+      - {x: -385, y: -2339}
+      - {x: -321, y: -2339}
+      - {x: -315, y: -2336}
+      - {x: -315, y: -2227}
+    - - {x: 61, y: -2227}
+      - {x: 61, y: -2315}
+      - {x: 68, y: -2339}
+      - {x: 92, y: -2339}
+      - {x: 115, y: -2321}
+      - {x: 136, y: -2280}
+      - {x: 136, y: -2227}
+    - - {x: 433, y: -2227}
+      - {x: 369, y: -2227}
+      - {x: 362, y: -2241}
+      - {x: 362, y: -2335}
+      - {x: 379, y: -2339}
+      - {x: 419, y: -2339}
+      - {x: 431, y: -2327}
+      - {x: 433, y: -2317}
+    - - {x: -679, y: -2197}
+      - {x: -679, y: -2310}
+      - {x: -587, y: -2310}
+      - {x: -587, y: -2197}
+    - - {x: -519, y: -2280}
+      - {x: -529, y: -2287}
+      - {x: -558, y: -2273}
+      - {x: -503, y: -2273}
+      - {x: -503, y: -2237}
+      - {x: -516, y: -2227}
+      - {x: -566, y: -2227}
+      - {x: -575, y: -2228}
+      - {x: -575, y: -2295}
+      - {x: -565, y: -2308}
+      - {x: -558, y: -2310}
+      - {x: -516, y: -2310}
+      - {x: -503, y: -2295}
+      - {x: -503, y: -2281}
+      - {x: -504, y: -2280}
+    - - {x: -444, y: -2253}
+      - {x: -429, y: -2254}
+      - {x: -425, y: -2240}
+      - {x: -438, y: -2227}
+      - {x: -491, y: -2227}
+      - {x: -495, y: -2234}
+      - {x: -495, y: -2310}
+      - {x: -437, y: -2310}
+      - {x: -427, y: -2304}
+      - {x: -424, y: -2297}
+      - {x: -424, y: -2268}
+      - {x: -462, y: -2250}
+    - - {x: -414, y: -2227}
+      - {x: -416, y: -2229}
+      - {x: -416, y: -2308}
+      - {x: -414, y: -2310}
+      - {x: -401, y: -2310}
+      - {x: -399, y: -2308}
+      - {x: -399, y: -2229}
+      - {x: -401, y: -2227}
+    - - {x: -303, y: -2227}
+      - {x: -303, y: -2310}
+      - {x: -236, y: -2310}
+      - {x: -236, y: -2237}
+      - {x: -247, y: -2227}
+    - - {x: -152, y: -2275}
+      - {x: -152, y: -2242}
+      - {x: -153, y: -2238}
+      - {x: -158, y: -2227}
+      - {x: -222, y: -2227}
+      - {x: -223, y: -2232}
+      - {x: -223, y: -2307}
+      - {x: -220, y: -2310}
+      - {x: -167, y: -2310}
+      - {x: -152, y: -2304}
+      - {x: -152, y: -2281}
+      - {x: -168, y: -2279}
+    - - {x: -140, y: -2210}
+      - {x: -140, y: -2298}
+      - {x: -134, y: -2310}
+      - {x: -69, y: -2310}
+      - {x: -69, y: -2197}
+      - {x: -124, y: -2197}
+      - {x: -135, y: -2201}
+    - - {x: -14, y: -2197}
+      - {x: -14, y: -2310}
+      - {x: 45, y: -2310}
+      - {x: 57, y: -2294}
+      - {x: 57, y: -2228}
+      - {x: 12, y: -2197}
+    - - {x: 186, y: -2197}
+      - {x: 186, y: -2308}
+      - {x: 188, y: -2310}
+      - {x: 258, y: -2310}
+      - {x: 270, y: -2284}
+      - {x: 270, y: -2197}
+    - - {x: 349, y: -2310}
+      - {x: 349, y: -2235}
+      - {x: 347, y: -2227}
+      - {x: 282, y: -2227}
+      - {x: 282, y: -2310}
+    - - {x: 441, y: -2202}
+      - {x: 437, y: -2207}
+      - {x: 437, y: -2287}
+      - {x: 441, y: -2305}
+      - {x: 457, y: -2310}
+      - {x: 483, y: -2310}
+      - {x: 483, y: -2212}
+      - {x: 469, y: -2202}
+    - - {x: 488, y: -2227}
+      - {x: 487, y: -2229}
+      - {x: 487, y: -2308}
+      - {x: 489, y: -2310}
+      - {x: 505, y: -2310}
+      - {x: 533, y: -2244}
+      - {x: 533, y: -2227}
+    - - {x: 600, y: -2227}
+      - {x: 545, y: -2227}
+      - {x: 537, y: -2240}
+      - {x: 537, y: -2296}
+      - {x: 539, y: -2307}
+      - {x: 543, y: -2310}
+      - {x: 593, y: -2310}
+      - {x: 608, y: -2305}
+      - {x: 608, y: -2244}
+      - {x: 606, y: -2239}
+    - - {x: 673, y: -2281}
+      - {x: 692, y: -2273}
+      - {x: 692, y: -2232}
+      - {x: 678, y: -2227}
+      - {x: 629, y: -2227}
+      - {x: 621, y: -2238}
+      - {x: 621, y: -2305}
+      - {x: 634, y: -2310}
+      - {x: 683, y: -2310}
+      - {x: 692, y: -2301}
+      - {x: 692, y: -2281}
+      - {x: 691, y: -2280}
+    - - {x: -662, y: -2215}
+      - {x: -610, y: -2238}
+      - {x: -613, y: -2269}
+      - {x: -660, y: -2291}
+    - - {x: -367, y: -2279}
+      - {x: -367, y: -2259}
+      - {x: -334, y: -2257}
+      - {x: -334, y: -2278}
+    - - {x: -109, y: -2290}
+      - {x: -119, y: -2258}
+      - {x: -108, y: -2250}
+      - {x: -87, y: -2258}
+    - - {x: 4, y: -2279}
+      - {x: 25, y: -2247}
+      - {x: 38, y: -2278}
+      - {x: 23, y: -2290}
+    - - {x: 384, y: -2260}
+      - {x: 414, y: -2258}
+      - {x: 413, y: -2279}
+      - {x: 393, y: -2289}
+    - - {x: -546, y: -2249}
+      - {x: -531, y: -2244}
+      - {x: -526, y: -2252}
+      - {x: -557, y: -2254}
+    - - {x: -195, y: -2249}
+      - {x: -178, y: -2244}
+      - {x: -176, y: -2252}
+      - {x: -206, y: -2254}
+    - - {x: 567, y: -2249}
+      - {x: 581, y: -2244}
+      - {x: 586, y: -2252}
+      - {x: 556, y: -2254}
+    - - {x: 649, y: -2249}
+      - {x: 666, y: -2244}
+      - {x: 668, y: -2252}
+      - {x: 639, y: -2254}
+    - - {x: 204, y: -2215}
+      - {x: 241, y: -2219}
+      - {x: 240, y: -2245}
+      - {x: 204, y: -2247}
+    - - {x: -414, y: -2197}
+      - {x: -416, y: -2199}
+      - {x: -416, y: -2212}
+      - {x: -414, y: -2214}
+      - {x: -401, y: -2214}
+      - {x: -399, y: -2212}
+      - {x: -399, y: -2199}
+      - {x: -401, y: -2197}
+    - - {x: -1272, y: -2020}
+      - {x: -1293, y: -2044}
+      - {x: -1293, y: -2050}
+      - {x: -1173, y: -2176}
+      - {x: -1157, y: -2176}
+      - {x: -1144, y: -2171}
+      - {x: -1137, y: -2152}
+      - {x: -1137, y: -2148}
+      - {x: -1267, y: -2020}
+    - - {x: 1722, y: -1971}
+      - {x: 2020, y: -1794}
+      - {x: 2020, y: -1192}
+      - {x: 1614, y: -222}
+      - {x: 631, y: -222}
+      - {x: 505, y: -344}
+      - {x: 820, y: -481}
+      - {x: 834, y: -463}
+      - {x: 833, y: -459}
+      - {x: 843, y: -480}
+      - {x: 635, y: -523}
+      - {x: 349, y: -691}
+      - {x: 234, y: -1096}
+      - {x: 234, y: -1204}
+      - {x: 1122, y: -2108}
+      - {x: 1149, y: -2118}
+      - {x: 1595, y: -2118}
+      - {x: 1428, y: -1854}
+      - {x: 1414, y: -1840}
+      - {x: 1670, y: -2000}
+    - - {x: 1536, y: -1976}
+      - {x: 1531, y: -1991}
+      - {x: 1531, y: -1993}
+      - {x: 1647, y: -2109}
+      - {x: 1649, y: -2109}
+      - {x: 1664, y: -2098}
+      - {x: 1664, y: -2077}
+      - {x: 1558, y: -1976}
+    - - {x: -596, y: -2031}
+      - {x: -600, y: -2041}
+      - {x: -600, y: -2064}
+      - {x: -594, y: -2069}
+      - {x: -591, y: -2070}
+      - {x: -568, y: -2070}
+      - {x: -561, y: -2060}
+      - {x: -561, y: -2031}
+    - - {x: -628, y: -1996}
+      - {x: -635, y: -1998}
+      - {x: -635, y: -2034}
+      - {x: -634, y: -2036}
+      - {x: -606, y: -2036}
+      - {x: -595, y: -2032}
+      - {x: -595, y: -2007}
+      - {x: -599, y: -1996}
+    - - {x: -1321, y: -1966}
+      - {x: -1323, y: -1966}
+      - {x: -1347, y: -1990}
+      - {x: -1347, y: -1998}
+      - {x: -1315, y: -2026}
+      - {x: -1307, y: -2026}
+      - {x: -1289, y: -2005}
+      - {x: -1288, y: -2001}
+      - {x: -1288, y: -1998}
+    - - {x: -838, y: -213}
+      - {x: -1178, y: -213}
+      - {x: -1834, y: -330}
+      - {x: -1834, y: -1585}
+      - {x: -1801, y: -1640}
+      - {x: -1736, y: -1675}
+      - {x: -1773, y: -1656}
+      - {x: -1795, y: -1647}
+      - {x: -1834, y: -1669}
+      - {x: -1834, y: -1751}
+      - {x: -1761, y: -2010}
+      - {x: -1749, y: -2017}
+      - {x: -531, y: -2017}
+      - {x: -482, y: -1945}
+      - {x: -482, y: -519}
+      - {x: -492, y: -507}
+    - - {x: 929, y: -591}
+      - {x: 931, y: -593}
+      - {x: 931, y: -594}
+      - {x: 967, y: -630}
+      - {x: 981, y: -649}
+      - {x: 1006, y: -631}
+      - {x: 971, y: -549}
+      - {x: 1024, y: -602}
+      - {x: 1023, y: -608}
+      - {x: 1057, y: -615}
+      - {x: 1107, y: -558}
+      - {x: 1042, y: -487}
+      - {x: 1038, y: -495}
+      - {x: 1031, y: -487}
+      - {x: 1030, y: -488}
+      - {x: 1031, y: -489}
+      - {x: 1036, y: -484}
+      - {x: 1044, y: -478}
+      - {x: 1138, y: -442}
+      - {x: 1608, y: -1529}
+      - {x: 1605, y: -1532}
+      - {x: 1606, y: -1533}
+      - {x: 1607, y: -1528}
+      - {x: 1604, y: -1522}
+      - {x: 1598, y: -1516}
+      - {x: 1584, y: -1512}
+      - {x: 1564, y: -1527}
+      - {x: 1577, y: -1554}
+      - {x: 1584, y: -1552}
+      - {x: 1588, y: -1551}
+      - {x: 1587, y: -1550}
+      - {x: 1584, y: -1553}
+      - {x: 1579, y: -1556}
+      - {x: 1464, y: -1501}
+      - {x: 1302, y: -1661}
+      - {x: 1303, y: -1834}
+      - {x: 1229, y: -1759}
+      - {x: 1144, y: -1659}
+    - - {x: -664, y: -1962}
+      - {x: -669, y: -1972}
+      - {x: -669, y: -1997}
+      - {x: -665, y: -2001}
+      - {x: -640, y: -2001}
+      - {x: -630, y: -1997}
+      - {x: -630, y: -1970}
+      - {x: -640, y: -1962}
+    - - {x: 1494, y: -1932}
+      - {x: 1487, y: -1941}
+      - {x: 1487, y: -1949}
+      - {x: 1510, y: -1975}
+      - {x: 1514, y: -1975}
+      - {x: 1530, y: -1961}
+      - {x: 1530, y: -1948}
+      - {x: 1507, y: -1932}
+    - - {x: -702, y: -1928}
+      - {x: -703, y: -1930}
+      - {x: -703, y: -1958}
+      - {x: -700, y: -1967}
+      - {x: -670, y: -1967}
+      - {x: -664, y: -1956}
+      - {x: -664, y: -1938}
+      - {x: -666, y: -1928}
+    - - {x: 1436, y: -1866}
+      - {x: 1421, y: -1879}
+      - {x: 1421, y: -1884}
+      - {x: 1441, y: -1909}
+      - {x: 1451, y: -1909}
+      - {x: 1465, y: -1899}
+      - {x: 1465, y: -1891}
+      - {x: 1441, y: -1866}
+    - - {x: -1615, y: -1817}
+      - {x: -1494, y: -1503}
+      - {x: -1605, y: -1393}
+      - {x: -1615, y: -1404}
+      - {x: -1616, y: -1376}
+      - {x: -1617, y: -1377}
+      - {x: -1612, y: -1383}
+      - {x: -1605, y: -1386}
+      - {x: -1593, y: -1389}
+      - {x: -1548, y: -1379}
+      - {x: -1438, y: -614}
+      - {x: -1561, y: -497}
+      - {x: -1569, y: -491}
+      - {x: -1576, y: -484}
+      - {x: -1577, y: -485}
+      - {x: -1334, y: -486}
+      - {x: -1331, y: -528}
+      - {x: -1029, y: -593}
+      - {x: -917, y: -551}
+      - {x: -927, y: -487}
+      - {x: -858, y: -702}
+      - {x: -718, y: -1854}
+      - {x: -769, y: -1854}
+      - {x: -767, y: -1852}
+      - {x: -757, y: -1850}
+      - {x: -777, y: -1815}
+      - {x: -913, y: -1689}
+      - {x: -1461, y: -1632}
+      - {x: -1493, y: -1667}
+      - {x: -1486, y: -1691}
+      - {x: -1548, y: -1732}
+      - {x: -1581, y: -1759}
+      - {x: -1572, y: -1775}
+      - {x: -1489, y: -1852}
+    - - {x: 1074, y: -1630}
+      - {x: 970, y: -1630}
+      - {x: 925, y: -1665}
+      - {x: 924, y: -1674}
+      - {x: 924, y: -1794}
+      - {x: 964, y: -1838}
+      - {x: 1094, y: -1838}
+      - {x: 1132, y: -1793}
+      - {x: 1132, y: -1682}
+      - {x: 1116, y: -1638}
+    - - {x: -831, y: -1790}
+      - {x: -841, y: -1798}
+      - {x: -841, y: -1824}
+      - {x: -839, y: -1830}
+      - {x: -806, y: -1830}
+      - {x: -802, y: -1821}
+      - {x: -802, y: -1797}
+      - {x: -812, y: -1790}
+    - - {x: 1624, y: -1702}
+      - {x: 1621, y: -1710}
+      - {x: 1621, y: -1747}
+      - {x: 1684, y: -1801}
+      - {x: 1713, y: -1822}
+      - {x: 1741, y: -1822}
+      - {x: 1741, y: -1771}
+      - {x: 1682, y: -1702}
+    - - {x: 1708, y: -1663}
+      - {x: 1708, y: -1680}
+      - {x: 1712, y: -1687}
+      - {x: 1735, y: -1687}
+      - {x: 1743, y: -1683}
+      - {x: 1743, y: -1659}
+      - {x: 1741, y: -1653}
+      - {x: 1714, y: -1653}
+    - - {x: 1222, y: -1565}
+      - {x: 1190, y: -1586}
+      - {x: 1189, y: -1590}
+      - {x: 1189, y: -1645}
+      - {x: 1209, y: -1671}
+      - {x: 1275, y: -1671}
+      - {x: 1294, y: -1653}
+      - {x: 1294, y: -1592}
+      - {x: 1283, y: -1565}
+    - - {x: 1681, y: -1626}
+      - {x: 1681, y: -1653}
+      - {x: 1690, y: -1660}
+      - {x: 1705, y: -1660}
+      - {x: 1708, y: -1659}
+      - {x: 1716, y: -1652}
+      - {x: 1716, y: -1633}
+      - {x: 1714, y: -1626}
+    - - {x: 1659, y: -1598}
+      - {x: 1653, y: -1609}
+      - {x: 1653, y: -1625}
+      - {x: 1659, y: -1633}
+      - {x: 1681, y: -1633}
+      - {x: 1688, y: -1626}
+      - {x: 1688, y: -1604}
+      - {x: 1687, y: -1598}
+    - - {x: 1460, y: -1511}
+      - {x: 1443, y: -1511}
+      - {x: 1431, y: -1516}
+      - {x: 1430, y: -1521}
+      - {x: 1430, y: -1539}
+      - {x: 1436, y: -1550}
+      - {x: 1461, y: -1550}
+      - {x: 1469, y: -1541}
+      - {x: 1469, y: -1517}
+    - - {x: -1508, y: -1449}
+      - {x: -1516, y: -1455}
+      - {x: -1516, y: -1481}
+      - {x: -1512, y: -1489}
+      - {x: -1482, y: -1489}
+      - {x: -1476, y: -1479}
+      - {x: -1476, y: -1457}
+      - {x: -1483, y: -1449}
+    - - {x: -1520, y: -1414}
+      - {x: -1545, y: -1414}
+      - {x: -1550, y: -1426}
+      - {x: -1550, y: -1448}
+      - {x: -1542, y: -1454}
+      - {x: -1521, y: -1454}
+      - {x: -1517, y: -1453}
+      - {x: -1511, y: -1446}
+      - {x: -1511, y: -1426}
+      - {x: -1514, y: -1415}
+    - - {x: -1580, y: -1380}
+      - {x: -1585, y: -1389}
+      - {x: -1585, y: -1414}
+      - {x: -1575, y: -1420}
+      - {x: -1554, y: -1420}
+      - {x: -1545, y: -1410}
+      - {x: -1545, y: -1390}
+      - {x: -1549, y: -1380}
+    - - {x: -1757, y: -1241}
+      - {x: -1753, y: -1247}
+      - {x: -1727, y: -1247}
+      - {x: -1718, y: -1242}
+      - {x: -1718, y: -1216}
+      - {x: -1719, y: -1214}
+      - {x: -1727, y: -1207}
+      - {x: -1744, y: -1207}
+      - {x: -1757, y: -1212}
+    - - {x: -1786, y: -1173}
+      - {x: -1792, y: -1185}
+      - {x: -1792, y: -1211}
+      - {x: -1791, y: -1213}
+      - {x: -1755, y: -1213}
+      - {x: -1752, y: -1205}
+      - {x: -1752, y: -1181}
+      - {x: -1764, y: -1173}
+    - - {x: -1821, y: -1139}
+      - {x: -1826, y: -1147}
+      - {x: -1826, y: -1174}
+      - {x: -1819, y: -1178}
+      - {x: -1796, y: -1178}
+      - {x: -1787, y: -1170}
+      - {x: -1787, y: -1147}
+      - {x: -1790, y: -1139}
+    - - {x: 982, y: -758}
+      - {x: 972, y: -758}
+      - {x: 963, y: -773}
+      - {x: 963, y: -775}
+      - {x: 1086, y: -898}
+      - {x: 1088, y: -898}
+      - {x: 1103, y: -883}
+      - {x: 1102, y: -879}
+      - {x: 1022, y: -790}
+    - - {x: 937, y: -720}
+      - {x: 927, y: -729}
+      - {x: 925, y: -735}
+      - {x: 925, y: -739}
+      - {x: 949, y: -765}
+      - {x: 956, y: -765}
+      - {x: 970, y: -754}
+      - {x: 970, y: -743}
+      - {x: 944, y: -720}
+    - - {x: -725, y: -709}
+      - {x: -732, y: -702}
+      - {x: -736, y: -699}
+      - {x: -733, y: -701}
+      - {x: -725, y: -703}
+      - {x: -724, y: -704}
+      - {x: -719, y: -705}
+      - {x: -718, y: -705}
+      - {x: -717, y: -717}
+      - {x: -717, y: -716}
+    - - {x: -897, y: -579}
+      - {x: -899, y: -586}
+      - {x: -899, y: -628}
+      - {x: -849, y: -628}
+      - {x: -849, y: -591}
+      - {x: -857, y: -579}
+    - - {x: 647, y: -558}
+      - {x: 639, y: -566}
+      - {x: 639, y: -602}
+      - {x: 677, y: -602}
+      - {x: 683, y: -601}
+      - {x: 683, y: -566}
+      - {x: 672, y: -558}
+    - - {x: -936, y: -542}
+      - {x: -936, y: -584}
+      - {x: -922, y: -591}
+      - {x: -895, y: -591}
+      - {x: -887, y: -581}
+      - {x: -887, y: -553}
+      - {x: -890, y: -542}
+    - - {x: 614, y: -523}
+      - {x: 604, y: -534}
+      - {x: 604, y: -553}
+      - {x: 605, y: -557}
+      - {x: 611, y: -567}
+      - {x: 640, y: -567}
+      - {x: 648, y: -556}
+      - {x: 648, y: -535}
+      - {x: 637, y: -523}
+    - - {x: 577, y: -488}
+      - {x: 568, y: -501}
+      - {x: 568, y: -530}
+      - {x: 575, y: -532}
+      - {x: 608, y: -532}
+      - {x: 613, y: -521}
+      - {x: 613, y: -500}
+      - {x: 601, y: -488}
+    - - {x: -751, y: -509}
+      - {x: -746, y: -504}
+      - {x: -746, y: -502}
+      - {x: -756, y: -513}
+      - {x: -754, y: -513}
+    - - {x: 693, y: -429}
+      - {x: 688, y: -455}
+      - {x: 688, y: -500}
+      - {x: 707, y: -500}
+      - {x: 709, y: -498}
+      - {x: 711, y: -463}
+      - {x: 711, y: -429}
+    - - {x: -1152, y: -319}
+      - {x: -1159, y: -325}
+      - {x: -1159, y: -361}
+      - {x: -1155, y: -368}
+      - {x: -1122, y: -368}
+      - {x: -1110, y: -356}
+      - {x: -1110, y: -324}
+      - {x: -1123, y: -319}
+    - - {x: -1091, y: -164}
+      - {x: -1108, y: -179}
+      - {x: -1108, y: -185}
+      - {x: -952, y: -344}
+      - {x: -945, y: -344}
+      - {x: -926, y: -325}
+      - {x: -926, y: -323}
+      - {x: -1086, y: -163}
+    - - {x: -1192, y: -282}
+      - {x: -1196, y: -290}
+      - {x: -1196, y: -321}
+      - {x: -1184, y: -331}
+      - {x: -1155, y: -331}
+      - {x: -1147, y: -315}
+      - {x: -1147, y: -282}
+    - - {x: 975, y: -236}
+      - {x: 938, y: -236}
+      - {x: 938, y: -253}
+      - {x: 939, y: -255}
+      - {x: 987, y: -261}
+      - {x: 1006, y: -261}
+      - {x: 1009, y: -260}
+      - {x: 1009, y: -246}
+      - {x: 1002, y: -241}
+    - - {x: -1572, y: 497}
+      - {x: -1592, y: 477}
+      - {x: -1592, y: 474}
+      - {x: -1463, y: 345}
+      - {x: -1461, y: 345}
+      - {x: -1441, y: 365}
+      - {x: -1441, y: 368}
+      - {x: -1570, y: 497}
+    - - {x: 1892, y: 492}
+      - {x: 1874, y: 475}
+      - {x: 1866, y: 463}
+      - {x: 1866, y: 419}
+      - {x: 1966, y: 371}
+      - {x: 2005, y: 371}
+      - {x: 2008, y: 373}
+      - {x: 2010, y: 379}
+      - {x: 2010, y: 399}
+      - {x: 1908, y: 492}
+    - - {x: 438, y: 2135}
+      - {x: 243, y: 2088}
+      - {x: 145, y: 1813}
+      - {x: 145, y: 1164}
+      - {x: 343, y: 408}
+      - {x: 523, y: 379}
+      - {x: 2092, y: 379}
+      - {x: 2109, y: 443}
+      - {x: 2109, y: 1690}
+      - {x: 1754, y: 2135}
+    - - {x: -893, y: 462}
+      - {x: -902, y: 457}
+      - {x: -902, y: 429}
+      - {x: -896, y: 422}
+      - {x: -873, y: 422}
+      - {x: -861, y: 429}
+      - {x: -861, y: 454}
+      - {x: -867, y: 462}
+    - - {x: -935, y: 497}
+      - {x: -936, y: 495}
+      - {x: -936, y: 463}
+      - {x: -926, y: 457}
+      - {x: -903, y: 457}
+      - {x: -897, y: 465}
+      - {x: -897, y: 493}
+      - {x: -907, y: 497}
+    - - {x: 1682, y: 613}
+      - {x: 1676, y: 608}
+      - {x: 1677, y: 608}
+      - {x: 1672, y: 613}
+      - {x: 1674, y: 745}
+    - - {x: 1970, y: 545}
+      - {x: 1965, y: 537}
+      - {x: 1965, y: 497}
+      - {x: 1974, y: 481}
+      - {x: 2028, y: 481}
+      - {x: 2028, y: 538}
+      - {x: 2021, y: 545}
+    - - {x: 1863, y: 527}
+      - {x: 1853, y: 515}
+      - {x: 1853, y: 507}
+      - {x: 1859, y: 501}
+      - {x: 1879, y: 485}
+      - {x: 1885, y: 485}
+      - {x: 1895, y: 496}
+      - {x: 1895, y: 504}
+      - {x: 1871, y: 527}
+    - - {x: -311, y: 1940}
+      - {x: -617, y: 2237}
+      - {x: -673, y: 2237}
+      - {x: -712, y: 2223}
+      - {x: -704, y: 2182}
+      - {x: -721, y: 2095}
+      - {x: -750, y: 2150}
+      - {x: -987, y: 2164}
+      - {x: -1321, y: 2166}
+      - {x: -2002, y: 2052}
+      - {x: -2121, y: 1397}
+      - {x: -2121, y: 875}
+      - {x: -2082, y: 871}
+      - {x: -2061, y: 856}
+      - {x: -2057, y: 853}
+      - {x: -2053, y: 849}
+      - {x: -2059, y: 854}
+      - {x: -2062, y: 857}
+      - {x: -2080, y: 860}
+      - {x: -2121, y: 857}
+      - {x: -2121, y: 790}
+      - {x: -1954, y: 487}
+      - {x: -532, y: 487}
+      - {x: -409, y: 495}
+      - {x: -288, y: 1448}
+      - {x: -288, y: 1669}
+    - - {x: 1963, y: 571}
+      - {x: 1946, y: 571}
+      - {x: 1937, y: 566}
+      - {x: 1937, y: 546}
+      - {x: 1940, y: 536}
+      - {x: 1968, y: 536}
+      - {x: 1974, y: 544}
+      - {x: 1974, y: 559}
+      - {x: 1970, y: 570}
+    - - {x: 1939, y: 599}
+      - {x: 1921, y: 599}
+      - {x: 1910, y: 596}
+      - {x: 1910, y: 574}
+      - {x: 1917, y: 563}
+      - {x: 1935, y: 563}
+      - {x: 1946, y: 572}
+      - {x: 1946, y: 588}
+      - {x: 1945, y: 593}
+    - - {x: -1733, y: 607}
+      - {x: -1703, y: 631}
+      - {x: -622, y: 1907}
+      - {x: -594, y: 1829}
+      - {x: -591, y: 1825}
+      - {x: -586, y: 1817}
+      - {x: -587, y: 1819}
+      - {x: -589, y: 1819}
+      - {x: -596, y: 1823}
+      - {x: -613, y: 1822}
+      - {x: -613, y: 1820}
+      - {x: -618, y: 1819}
+      - {x: -620, y: 1816}
+      - {x: -616, y: 1819}
+      - {x: -616, y: 1820}
+      - {x: -614, y: 1821}
+      - {x: -611, y: 1828}
+      - {x: -605, y: 1839}
+      - {x: -628, y: 1869}
+      - {x: -657, y: 1855}
+      - {x: -667, y: 1825}
+      - {x: -642, y: 1804}
+      - {x: -631, y: 1809}
+      - {x: -630, y: 1810}
+      - {x: -625, y: 1811}
+      - {x: -623, y: 1814}
+      - {x: -640, y: 1798}
+      - {x: -647, y: 1795}
+      - {x: -653, y: 1769}
+      - {x: -1038, y: 614}
+      - {x: -1043, y: 588}
+      - {x: -1042, y: 578}
+      - {x: -1248, y: 752}
+      - {x: -1403, y: 740}
+      - {x: -1436, y: 667}
+      - {x: -1697, y: 623}
+      - {x: -1719, y: 596}
+      - {x: -1780, y: 577}
+    - - {x: 2065, y: 652}
+      - {x: 2051, y: 652}
+      - {x: 2037, y: 609}
+      - {x: 2037, y: 591}
+      - {x: 2039, y: 589}
+      - {x: 2052, y: 585}
+      - {x: 2057, y: 585}
+      - {x: 2063, y: 591}
+      - {x: 2072, y: 635}
+      - {x: 2072, y: 651}
+    - - {x: 1883, y: 595}
+      - {x: 1888, y: 590}
+      - {x: 1913, y: 590}
+      - {x: 1919, y: 592}
+      - {x: 1919, y: 615}
+      - {x: 1913, y: 626}
+      - {x: 1892, y: 626}
+      - {x: 1883, y: 620}
+    - - {x: -1066, y: 636}
+      - {x: -1074, y: 627}
+      - {x: -1075, y: 625}
+      - {x: -1075, y: 605}
+      - {x: -1065, y: 596}
+      - {x: -1039, y: 596}
+      - {x: -1035, y: 608}
+      - {x: -1035, y: 627}
+      - {x: -1041, y: 636}
+    - - {x: -1766, y: 868}
+      - {x: -1776, y: 854}
+      - {x: -1776, y: 806}
+      - {x: -1570, y: 601}
+      - {x: -1532, y: 601}
+      - {x: -1509, y: 616}
+      - {x: -1509, y: 677}
+      - {x: -1723, y: 868}
+    - - {x: 2054, y: 771}
+      - {x: 2046, y: 771}
+      - {x: 2034, y: 763}
+      - {x: 2034, y: 759}
+      - {x: 2049, y: 704}
+      - {x: 2071, y: 704}
+      - {x: 2071, y: 728}
+      - {x: 2064, y: 751}
+    - - {x: -1796, y: 1040}
+      - {x: -1801, y: 1030}
+      - {x: -1801, y: 1008}
+      - {x: -1795, y: 1002}
+      - {x: -1792, y: 1001}
+      - {x: -1769, y: 1001}
+      - {x: -1761, y: 1011}
+      - {x: -1761, y: 1038}
+      - {x: -1766, y: 1040}
+    - - {x: -1941, y: 1193}
+      - {x: -1953, y: 1189}
+      - {x: -1953, y: 1162}
+      - {x: -1945, y: 1153}
+      - {x: -1925, y: 1153}
+      - {x: -1916, y: 1156}
+      - {x: -1913, y: 1165}
+      - {x: -1913, y: 1182}
+      - {x: -1923, y: 1193}
+    - - {x: -1977, y: 1223}
+      - {x: -1984, y: 1210}
+      - {x: -1984, y: 1194}
+      - {x: -1979, y: 1185}
+      - {x: -1976, y: 1183}
+      - {x: -1953, y: 1183}
+      - {x: -1944, y: 1186}
+      - {x: -1944, y: 1211}
+      - {x: -1952, y: 1223}
+    - - {x: -1981, y: 1253}
+      - {x: -2011, y: 1253}
+      - {x: -2014, y: 1245}
+      - {x: -2014, y: 1218}
+      - {x: -2004, y: 1213}
+      - {x: -1981, y: 1213}
+      - {x: -1974, y: 1220}
+      - {x: -1974, y: 1242}
+    - - {x: -2041, y: 1283}
+      - {x: -2044, y: 1280}
+      - {x: -2044, y: 1246}
+      - {x: -2043, y: 1244}
+      - {x: -2012, y: 1244}
+      - {x: -2004, y: 1247}
+      - {x: -2004, y: 1278}
+      - {x: -2015, y: 1283}
+    - - {x: -2040, y: 1314}
+      - {x: -2066, y: 1314}
+      - {x: -2075, y: 1309}
+      - {x: -2075, y: 1284}
+      - {x: -2064, y: 1274}
+      - {x: -2047, y: 1274}
+      - {x: -2042, y: 1276}
+      - {x: -2034, y: 1286}
+      - {x: -2034, y: 1300}
+      - {x: -2036, y: 1307}
+    - - {x: -2100, y: 1344}
+      - {x: -2105, y: 1340}
+      - {x: -2105, y: 1311}
+      - {x: -2096, y: 1305}
+      - {x: -2073, y: 1305}
+      - {x: -2065, y: 1317}
+      - {x: -2065, y: 1341}
+      - {x: -2075, y: 1344}
+    - - {x: 516, y: 1423}
+      - {x: 510, y: 1410}
+      - {x: 510, y: 1389}
+      - {x: 521, y: 1379}
+      - {x: 524, y: 1378}
+      - {x: 543, y: 1378}
+      - {x: 555, y: 1388}
+      - {x: 555, y: 1413}
+      - {x: 542, y: 1423}
+    - - {x: 845, y: 1614}
+      - {x: 786, y: 1614}
+      - {x: 773, y: 1592}
+      - {x: 773, y: 1541}
+      - {x: 801, y: 1528}
+      - {x: 840, y: 1528}
+      - {x: 852, y: 1533}
+      - {x: 858, y: 1554}
+      - {x: 858, y: 1593}
+    - - {x: 544, y: 1598}
+      - {x: 547, y: 1600}
+      - {x: 553, y: 1598}
+      - {x: 542, y: 1595}
+      - {x: 543, y: 1595}
+    - - {x: 288, y: 1675}
+      - {x: 263, y: 1675}
+      - {x: 258, y: 1663}
+      - {x: 258, y: 1632}
+      - {x: 259, y: 1630}
+      - {x: 303, y: 1630}
+      - {x: 303, y: 1666}
+      - {x: 296, y: 1672}
+    - - {x: 579, y: 1659}
+      - {x: 605, y: 1697}
+      - {x: 622, y: 1681}
+      - {x: 604, y: 1634}
+    - - {x: 483, y: 1772}
+      - {x: 487, y: 1694}
+      - {x: 475, y: 1673}
+    - - {x: 234, y: 1711}
+      - {x: 222, y: 1707}
+      - {x: 222, y: 1680}
+      - {x: 226, y: 1668}
+      - {x: 229, y: 1666}
+      - {x: 256, y: 1666}
+      - {x: 267, y: 1672}
+      - {x: 267, y: 1700}
+      - {x: 259, y: 1711}
+    - - {x: -270, y: 1764}
+      - {x: -278, y: 1759}
+      - {x: -278, y: 1688}
+      - {x: -257, y: 1682}
+      - {x: -204, y: 1682}
+      - {x: -197, y: 1689}
+      - {x: -197, y: 1751}
+      - {x: -204, y: 1764}
+    - - {x: 186, y: 1716}
+      - {x: 187, y: 1713}
+      - {x: 194, y: 1702}
+      - {x: 220, y: 1702}
+      - {x: 231, y: 1708}
+      - {x: 231, y: 1741}
+      - {x: 228, y: 1746}
+      - {x: 222, y: 1747}
+      - {x: 195, y: 1747}
+      - {x: 186, y: 1736}
+    - - {x: -530, y: 1764}
+      - {x: -537, y: 1770}
+      - {x: -542, y: 1775}
+      - {x: -544, y: 1775}
+      - {x: -536, y: 1770}
+      - {x: -528, y: 1767}
+      - {x: -518, y: 1764}
+      - {x: -505, y: 1762}
+    - - {x: 347, y: 1993}
+      - {x: 339, y: 1989}
+      - {x: 331, y: 1977}
+      - {x: 331, y: 1973}
+      - {x: 487, y: 1820}
+      - {x: 491, y: 1820}
+      - {x: 504, y: 1831}
+      - {x: 505, y: 1837}
+      - {x: 349, y: 1993}
+    - - {x: -685, y: 1892}
+      - {x: -694, y: 1886}
+      - {x: -694, y: 1851}
+      - {x: -687, y: 1845}
+      - {x: -661, y: 1845}
+      - {x: -647, y: 1851}
+      - {x: -647, y: 1886}
+      - {x: -663, y: 1892}
+    - - {x: 548, y: 2134}
+      - {x: 524, y: 2134}
+      - {x: 514, y: 2123}
+      - {x: 514, y: 2115}
+      - {x: 622, y: 1973}
+      - {x: 642, y: 1973}
+      - {x: 652, y: 1991}
+      - {x: 652, y: 2050}
+      - {x: 649, y: 2061}
+    - - {x: 562, y: 2209}
+      - {x: 559, y: 2203}
+      - {x: 559, y: 2162}
+      - {x: 673, y: 2060}
+      - {x: 712, y: 2060}
+      - {x: 712, y: 2209}
+    - - {x: -863, y: 2290}
+      - {x: -872, y: 2290}
+      - {x: -892, y: 2276}
+      - {x: -892, y: 2268}
+      - {x: -735, y: 2111}
+      - {x: -733, y: 2111}
+      - {x: -712, y: 2130}
+      - {x: -712, y: 2133}
+      - {x: -722, y: 2149}
+    - - {x: -938, y: 2171}
+      - {x: -964, y: 2171}
+      - {x: -974, y: 2160}
+      - {x: -974, y: 2132}
+      - {x: -971, y: 2124}
+      - {x: -934, y: 2124}
+      - {x: -926, y: 2139}
+      - {x: -926, y: 2154}
+      - {x: -927, y: 2159}
+    - - {x: 1036, y: 2232}
+      - {x: 1027, y: 2232}
+      - {x: 1019, y: 2221}
+      - {x: 1019, y: 2214}
+      - {x: 1023, y: 2208}
+      - {x: 1076, y: 2173}
+      - {x: 1079, y: 2173}
+      - {x: 1091, y: 2187}
+      - {x: 1091, y: 2191}
+      - {x: 1076, y: 2206}
+    - - {x: 800, y: 2252}
+      - {x: 750, y: 2225}
+      - {x: 750, y: 2214}
+      - {x: 759, y: 2203}
+      - {x: 764, y: 2203}
+      - {x: 824, y: 2230}
+      - {x: 826, y: 2233}
+      - {x: 826, y: 2242}
+      - {x: 821, y: 2252}
+    - - {x: 931, y: 2265}
+      - {x: 888, y: 2265}
+      - {x: 887, y: 2264}
+      - {x: 887, y: 2243}
+      - {x: 940, y: 2237}
+      - {x: 959, y: 2237}
+      - {x: 962, y: 2238}
+      - {x: 964, y: 2250}
+      - {x: 964, y: 2257}
+      - {x: 963, y: 2259}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

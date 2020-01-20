@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1222676633}
   - component: {fileID: 1222676634}
-  - component: {fileID: 1222676635}
   m_Layer: 0
   m_Name: book_obj
   m_TagString: Untagged
@@ -61,19 +60,6 @@ PolygonCollider2D:
       - {x: -1.9046372, y: -0.5537269}
       - {x: 0.433277, y: -2.052388}
       - {x: 2.352916, y: -0.49204516}
---- !u!114 &1222676635
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1222676632}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4092cb8a614e5294280fc20c3e78e951, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_contents: STAY ON BED !!!
 --- !u!1 &1295908088936059797
 GameObject:
   m_ObjectHideFlags: 0
@@ -734,7 +720,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3259813699545790544}
-  - component: {fileID: 728010414}
   - component: {fileID: 1477528800}
   m_Layer: 0
   m_Name: Door_obj
@@ -759,20 +744,6 @@ Transform:
   m_Father: {fileID: 7517331092954597675}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &728010414
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3259813699545790545}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: aa5ac8315b2a92f4ab70bf6079c2d65b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_closedDoor: {fileID: 7438338260343693827}
-  m_openedDoor: {fileID: 4826661532866689273}
 --- !u!60 &1477528800
 PolygonCollider2D:
   m_ObjectHideFlags: 0

@@ -3,33 +3,21 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-
-public class Door : MonoBehaviour
+namespace InteractableObjects
 {
-    public GameObject m_closedDoor;
-    public GameObject m_openedDoor;
-
-    bool m_interactable = false;
-
-    private void OnTriggerEnter2D(Collider2D collision)
+    public class Door : InteractableObject
     {
-        if (collision.gameObject.GetComponent<PlayerControl>())
-            m_interactable = true;
-    }
+        public GameObject m_closedDoor;
+        public GameObject m_openedDoor;
 
-    private void OnTriggerExit2D(Collider2D collision)
-    {
-        if (collision.gameObject.GetComponent<PlayerControl>())
-            m_interactable = false;
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.E) && m_interactable)
+        // Update is called once per frame
+        void Update()
         {
-            m_closedDoor.SetActive(!m_closedDoor.activeSelf);
-            m_openedDoor.SetActive(!m_openedDoor.activeSelf);
+            if (Input.GetKeyDown(m_interactKey) && m_isInteractable)
+            {
+                m_closedDoor.SetActive(!m_closedDoor.activeSelf);
+                m_openedDoor.SetActive(!m_openedDoor.activeSelf);
+            }
         }
     }
 }
