@@ -45,13 +45,18 @@ namespace DialogManament
 			this.m_dialogueBox.SetActive(true);
 		}
 
-		public void closeDialogue()
+		public void endDialogue()
 		{
+			GameManager.m_Singleton.enableCharacterController();
+
 			this.m_dialogueBox.SetActive(false);
 		}
 
 		public IEnumerator startDialogue(Dialogue dialogue)
 		{
+			//Preventing player run around
+			GameManager.m_Singleton.disableCharacterController();
+
 			//When this function is called, 
 			//the "Press <key> to interact" isn't necessary anymore
 			this.hideInteractNotification();
@@ -67,7 +72,9 @@ namespace DialogManament
 				yield return waitForInput(()=> Input.GetMouseButtonDown(0));
 
 				i++;
-			} 
+			}
+
+			this.endDialogue();
 		}
 
 		IEnumerator waitForInput(System.Func<bool> inputs)
