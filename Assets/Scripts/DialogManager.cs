@@ -5,29 +5,18 @@ using TMPro;
 
 namespace DialogManament
 {
-	[System.Serializable]
-	public class Speech
-	{
-		public string m_speaker;
-		[TextArea(3, 5)] public string m_speech;
-	}
-
-	[System.Serializable]
-	public class Dialogue
-	{
-		public Speech[] m_speeches;
-	}
-
 	public class DialogManager : MonoBehaviour
 	{
 		static public DialogManager m_Singleton;
 
 		public GameObject m_dialogueBox;
-		public TextMeshProUGUI m_name;
-		public TextMeshProUGUI m_contents;
+		public TextMeshProUGUI m_speakerName;
+		public TextMeshProUGUI m_speechContents;
 
 		public GameObject m_interactNotification;
 		public TextMeshProUGUI m_notifiedContents;
+
+		public bool m_isDialoging = false;
 
 		private void Awake()
 		{
@@ -39,8 +28,8 @@ namespace DialogManament
 
 		public void setDialog(string name, string contents)
 		{
-			this.m_name.text = name;
-			this.m_contents.text = contents;
+			this.m_speakerName.text = name;
+			this.m_speechContents.text = contents;
 
 			this.m_dialogueBox.SetActive(true);
 		}
@@ -50,13 +39,22 @@ namespace DialogManament
 			GameManager.m_Singleton.enableCharacterController();
 
 			this.m_dialogueBox.SetActive(false);
+
+			this.m_isDialoging = false;
 		}
 
-		public IEnumerator startDialogue(Dialogue dialogue)
+		public void startDialogue(Dialogue dialogue)
 		{
+			this.m_isDialoging = true;
+
 			//Preventing player run around
 			GameManager.m_Singleton.disableCharacterController();
 
+			StartCoroutine(_startDialogue(dialogue));
+		}
+
+		IEnumerator _startDialogue(Dialogue dialogue)
+		{
 			//When this function is called, 
 			//the "Press <key> to interact" isn't necessary anymore
 			this.hideInteractNotification();
@@ -66,8 +64,8 @@ namespace DialogManament
 			int i = 0;
 			while (i < dialogue.m_speeches.Length)
 			{
-				m_name.text = dialogue.m_speeches[i].m_speaker;
-				m_contents.text = dialogue.m_speeches[i].m_speech;
+				m_speakerName.text = dialogue.m_speeches[i].m_speaker;
+				m_speechContents.text = dialogue.m_speeches[i].m_speech;
 
 				yield return waitForInput(()=> Input.GetMouseButtonDown(0));
 

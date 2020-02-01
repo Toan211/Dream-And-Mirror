@@ -5,9 +5,18 @@ using DialogManament;
 
 namespace InteractableObjects
 {
-	public class TalkingObject : InteractableObject
+	[RequireComponent(typeof(Dialogue))]
+    public class TalkingObject : InteractableObject
 	{
-		[SerializeField] public Dialogue m_dialogue;
+		public Dialogue m_dialogue;
+
+		private void Start()
+		{
+			if(m_dialogue == null)
+			{
+				m_dialogue = GetComponent<Dialogue>();
+			}
+		}
 
 		private void Update()
 		{
@@ -15,7 +24,7 @@ namespace InteractableObjects
 			{
 				if(Input.GetKeyDown(m_interactKey))
 				{
-					StartCoroutine(DialogManager.m_Singleton.startDialogue(m_dialogue));
+					DialogManager.m_Singleton.startDialogue(m_dialogue);
 				}
 			}
 
