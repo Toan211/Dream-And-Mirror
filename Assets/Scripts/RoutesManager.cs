@@ -91,9 +91,9 @@ namespace RoutesManagement
                 TextMeshProUGUI buttonText = m_Choices[i].gameObject.transform.GetChild(0).GetComponent<TextMeshProUGUI>();
                 buttonText.text = m_Decisions.m_options[i].m_content;
 
-                //Clear previous stuffs
                 m_Choices[i].onClick.RemoveAllListeners();
-                //Set new stuffs
+
+                m_Choices[i].onClick.AddListener(this.closeDecisionBox);
                 m_Choices[i].onClick.AddListener(m_Decisions.m_options[i].m_resultTo.Invoke);
 
                 m_Choices[i].gameObject.SetActive(true);
