@@ -15,6 +15,15 @@ public class PlayerControl : MonoBehaviour
 
     private void Update()
     {
+        if (Input.GetKey(KeyCode.UpArrow) || Input.GetKey(KeyCode.DownArrow) || Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.LeftArrow))
+        {
+            FlagsManager.setFlag(0, true);
+        }
+        else
+        {
+            FlagsManager.setFlag(0, false);
+        }
+
         m_PlayerMotor.m_Velociy = getCurrentVelocity();
     }
 
